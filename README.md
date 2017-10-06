@@ -2,7 +2,7 @@
 Portfolio van Bob van Elburg
 
 --------------------------------------------------------------------------------
-## Inhoudsopgave
+## Inhoud
 * Documenten
 * Presentaties
 * Datacamp
