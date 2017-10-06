@@ -1,12 +1,14 @@
 # Portfolio_kb-47
 Portfolio van Bob van Elburg
 
+--------------------------------------------------------------------------------
 ## Inhoudsopgave
 * Documenten
 * Presentaties
 * Datacamp
 * Coursera
 
+---------------------------------------------------------------------------------
 ### Documenten
 Tijdens de minor KB-47 heb ik verschillende documenten opgesteld. Deze zal ik in een aparte map plaatsen om mijn contributie aan de groep vast te leggen.
 
