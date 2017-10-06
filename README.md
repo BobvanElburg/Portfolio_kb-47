@@ -7,6 +7,7 @@ Portfolio van Bob van Elburg
 * Presentaties
 * Datacamp
 * Coursera
+* Reflectie
 
 ---------------------------------------------------------------------------------
 ### Documenten
@@ -20,3 +21,12 @@ Voor de minor is de vraag naar kennis over de codetaal Python. Het is lastig om 
 
 ### Coursera
 Tijdens de minor is geavanceerde wiskundige kennis nodig om machine learning te begrijpen. Ik zal mijn voortgang hiervan vastleggen.
+
+------------------------------------------
+
+## Reflectie
+De minor kb-47 vond ik een erg interessante minorkeuze. De minor trok mijn aandacht op het gebied van onderzoek en samenwerking met anderen op verschillende expertisegebieden. 
+Al snel had onze groep een solide structuur gebouwd op het gebied van afspraken, communicatie en planning. Helaas werdt de groep 4 weken later opgeheven door persoonlijke problemen van de meelopende docent. Hierdoor werd ik geplaatst in een nieuwe groep die zich bezig hield met het project Urbinn. Dit project focust zich op het maken van een semantische kaart die gebruikt zal worden om een zelfrijdende auto te helpen in het herkennen van de huidige locatie en objecten.
+In de nieuwe groep merkte ik samen Viradj (groepslid die ook een business mindset heeft) dat de groepsstructuur niet soepel en stroef verliep. Aan de hand hiervan hebben Viradj en ik aangegeven de structuur van de groep aan te willen pakken. Door elk groepslid te vragen over de huidige situatie van de groepsstructuur en functionering zijn punten genoteerd en meegenomen in een mogelijke oplossing.
+Deze oplossing hebben we erg dynamisch gehouden en was vrij kneedbaar voor implementatie. Viradj en ik hebben gedurende de tijd de oplossingen uitgelegd aan Jeroen (onze meelopende docent) met achterliggende gedachten dat niet alles geïmplementeerd moest worden maar dat ieder punt de groepsstructuur kan verbeteren.
+Na deze uitleg zijn bepaalde punten van onze oplossingen toegepast op de groep. Een paar voorbeelden hiervan zijn het labelen van de scrum issues en het toewijzen van een scrum master.
