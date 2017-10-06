@@ -38,3 +38,5 @@ Deze oplossing hebben we erg dynamisch gehouden en was vrij kneedbaar voor imple
 
 Na deze uitleg zijn bepaalde punten van onze oplossingen toegepast op de groep. Een paar voorbeelden hiervan zijn het labelen van de scrum issues en het toewijzen van een scrum master.
 
+Binnen de groep heb ik mij volledig ingezet om zo snel mogelijk de draad op te kunnen pakken en mee te draaien met het door de groep gemaakte schema. In de groep is er veel vraag naar het gebruik van code om veel scrum issues af te handelen. Mijn kennis op het gebied van Python is nog vrij nieuw en ben nog momenteel nog niet in staat om zelf complexe codes te schrijven. Mijn expertise licht op het gebied van informatie beveiliging en het zien van problemen vanuit verschillende oogpunten.
+
