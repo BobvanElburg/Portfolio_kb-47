@@ -22,6 +22,9 @@ Voor de minor is de vraag naar kennis over de codetaal Python. Het is lastig om 
 ### Coursera
 Tijdens de minor is geavanceerde wiskundige kennis nodig om machine learning te begrijpen. Ik zal mijn voortgang hiervan vastleggen.
 
+### Reflectie
+In de reflectie documenteer ik mijn bevindingen van de gebeurtenissen in het blok waar ik bij betrokken was. Hier schrijf ik op wat ik gedaan heb en wat mijn bevindingen hierover zijn.
+
 ------------------------------------------
 
 ## Reflectie
