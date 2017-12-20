@@ -29,6 +29,7 @@ In de reflectie documenteer ik mijn bevindingen van de gebeurtenissen in het blo
 
 [![Python certificaat](https://github.com/BobvanElburg/Portfolio_kb-47/Datacamp/certificate python.pdf)](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Datacamp/certificate%20python.pdf)
 
+## Datacamp
 Voor datacamp heb ik de volgende courses gemaakt en afgerond.
 
 * Intro to Python for Data Science
