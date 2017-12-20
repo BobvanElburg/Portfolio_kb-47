@@ -29,6 +29,20 @@ In de reflectie documenteer ik mijn bevindingen van de gebeurtenissen in het blo
 
 [![Python certificaat](https://github.com/BobvanElburg/Portfolio_kb-47/Datacamp/certificate python.pdf)](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Datacamp/certificate%20python.pdf)
 
+Voor datacamp heb ik de volgende courses gemaakt en afgerond.
+
+* Intro to Python for Data Science
+* Intermediate Python for Data Science
+* Python Data Science Toolbox (Part 1)
+* Pandas foundation
+* Python Data Science Toolbox (Part 2)
+* Introduction to data visualization with Python
+* Cleaning Data
+* Statistical Thinking in Python (part 1)
+* Supervised Learning with scikit-learn
+
+Ik vond de Python courses erg leuk maar wel tijdrovend. Vooral omdat het project zoveel tijd vereist blijft er weinig tijd over om zelf opdrachten uit te voeren.
+
 
 ## Reflectie
 De minor kb-47 vond ik een erg interessante minorkeuze. De minor trok mijn aandacht op het gebied van onderzoek en samenwerking met anderen op verschillende expertisegebieden. 
