@@ -27,7 +27,7 @@ Tijdens de minor is geavanceerde wiskundige kennis nodig om machine learning te 
 In de reflectie documenteer ik mijn bevindingen van de gebeurtenissen in het blok waar ik bij betrokken was. Hier schrijf ik op wat ik gedaan heb en wat mijn bevindingen hierover zijn.
 
 
-[![Image Alt Text](/path/to/image)](Portfolio_kb-47/Datacamp/certificate python.pdf)
+[![Python certificaat](/path/to/image)]
 ------------------------------------------
 
 ## Reflectie
