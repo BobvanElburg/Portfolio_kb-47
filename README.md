@@ -25,10 +25,10 @@ Tijdens de minor is geavanceerde wiskundige kennis nodig om machine learning te 
 
 ### Reflectie
 In de reflectie documenteer ik mijn bevindingen van de gebeurtenissen in het blok waar ik bij betrokken was. Hier schrijf ik op wat ik gedaan heb en wat mijn bevindingen hierover zijn.
-
+------------------------------------------
 
 [![Python certificaat](/path/to/image)]
-------------------------------------------
+
 
 ## Reflectie
 De minor kb-47 vond ik een erg interessante minorkeuze. De minor trok mijn aandacht op het gebied van onderzoek en samenwerking met anderen op verschillende expertisegebieden. 
