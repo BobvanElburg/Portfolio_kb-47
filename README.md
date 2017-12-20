@@ -3,11 +3,12 @@ Portfolio van Bob van Elburg
 
 --------------------------------------------------------------------------------
 ## Inhoud
-* Documenten
-* Presentaties
-* Datacamp
-* Coursera
-* Reflectie
+* [Documenten](http://)
+* [Presentaties](http://)
+* [Datacamp](http://)
+* [Coursera](http://)
+* [Code opdrachten](http://)
+* [Reflectie](http://)
 
 ---------------------------------------------------------------------------------
 ### Documenten
