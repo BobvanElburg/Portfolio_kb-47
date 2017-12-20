@@ -44,6 +44,15 @@ Voor datacamp heb ik de volgende courses gemaakt en afgerond.
 
 Ik vond de Python courses erg leuk maar wel tijdrovend. Vooral omdat het project zoveel tijd vereist blijft er weinig tijd over om zelf opdrachten uit te voeren.
 
+## Coursera
+Voor coursera heb ik de volgende hoofdstukken afgerond.
+
+* 1 Linear Regression with One variable
+* 2 Linear Regression with Multiple Variables
+* 3 Logistic Regression & Regularization
+* 6 Advice for Applying Machine Learning
+
+Voor het project vond ik Coursera wel een zware pil. Voor het Urbinn project is het wel leuk als je een beetje begrijpt van machine learning. Echter vond ik de hele coursera course erg zwaar voor het blok en heel erg tijdrovent.
 
 ## Reflectie
 De minor kb-47 vond ik een erg interessante minorkeuze. De minor trok mijn aandacht op het gebied van onderzoek en samenwerking met anderen op verschillende expertisegebieden. 
