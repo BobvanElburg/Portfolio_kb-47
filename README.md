@@ -3,12 +3,15 @@ Portfolio van Bob van Elburg
 
 --------------------------------------------------------------------------------
 ## Inhoud
-* [Documenten](http://Portfolio_kb-47/Documentenpagina)
+* [Documenten](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Documenten)
 * [Presentaties](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Presentaties)
-* [Datacamp](http://)
-* [Coursera](http://)
-* [Code opdrachten](http://)
-* [Reflectie](http://)
+* [Datacamp](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Datacamp)
+* [Coursera](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Coursera)
+* [Code opdrachten](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/notebook%20tutorials)
+* [Issues](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/issues)
+* [Bullshit opdracht](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/bullshit%20opdracht)
+* [Eigen code/notebooks](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/bullshit%20opdracht)
+* Reflectie (Verder op deze pagina)
 
 ---------------------------------------------------------------------------------
 ### Documenten
