@@ -4,7 +4,7 @@ Portfolio van Bob van Elburg
 --------------------------------------------------------------------------------
 ## Inhoud
 * [Documenten](http://Portfolio_kb-47/Documentenpagina)
-* [Presentaties](http://)
+* [Presentaties](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Presentaties)
 * [Datacamp](http://)
 * [Coursera](http://)
 * [Code opdrachten](http://)
