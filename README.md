@@ -96,7 +96,8 @@ Voor het project vond ik Coursera wel een zware pil. Voor het Urbinn project is 
 
 ## Bullshit opdracht
 Voor de bullshit opdracht heb ik presentaties en een opdracht uitgevoerd. Deze opdracht en presentaties samen met de foto's staan in de git library.
-[logo]: https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/bullshit%20opdracht/gold%20and%20wealth.png "Logo Title Text 2"
+![alt text](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/bullshit%20opdracht/gold%20and%20wealth.png "Logo Title Text 1")
+
 
 
 ## Reflectie
