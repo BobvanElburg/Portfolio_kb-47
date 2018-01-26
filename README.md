@@ -17,35 +17,12 @@ Portfolio van Bob van Elburg
 ### Documenten
 Tijdens de minor KB-47 heb ik verschillende documenten opgesteld. Deze zal ik in een aparte map plaatsen om mijn contributie aan de groep vast te leggen.
 
-### Presentaties
+### [Presentaties](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Presentaties)
 Iedere week worden er presentaties gehouden om de voortgang van het project te bespreken. De presentaties waar ik aan mee heb geholpen zal ik in een aparte map plaatsen ter vastlegging van mijn contributie.
 
 ### Datacamp
 Voor de minor is de vraag naar kennis over de codetaal Python. Het is lastig om hiervan de voortgang vast te leggen. Ik probeer zoveel mogelijk informatie vast te leggen om mijn voortgang te laten zien.
 
-### Coursera
-Tijdens de minor is geavanceerde wiskundige kennis nodig om machine learning te begrijpen. Ik zal mijn voortgang hiervan vastleggen.
-
-### Code opdrachten
-Gedurende de minor heb ik verschillende code opdrachten uitgevoerd waaronder de spark tutorial. Deze heb ik opgenomen in mijn portfolio.
-
-### Issues
-In mijn portfolio heb ik de issues waar ik aan heb gewerkt opgenomen. Over deze issues heb ik een uitleg gegeven wat ik heb uitgevoerd.
-
-### Bullshit opdracht
-Ik heb de opdrachten en illustraties, die ik heb gebruikt voor de bullshitopdrachten, opgenomen in mijn portfolio.
-
-### Eigen code notebooks
-Zelf heb ik niet veel code uitgevoerd omdat dit niet mijn expertise is. Wel heb ik de notebooks met code opgenomen in mijn portfolio.
-
-### Reflectie
-In de reflectie documenteer ik mijn bevindingen van de gebeurtenissen in het blok waar ik bij betrokken was. Hier schrijf ik op wat ik gedaan heb en wat mijn bevindingen hierover zijn. Ik heb na week 6 hier niet meer verder aan gewerkt vanwege de tijd die ik overhield om aan mijn huiswerkopdrachten en project te werken.
-
-------------------------------------------
-
-[![Python certificaat](https://github.com/BobvanElburg/Portfolio_kb-47/Datacamp/certificate python.pdf)](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Datacamp/certificate%20python.pdf)
-
-## Datacamp
 Voor datacamp heb ik de volgende courses gemaakt en afgerond.
 
 * Intro to Python for Data Science
@@ -60,7 +37,9 @@ Voor datacamp heb ik de volgende courses gemaakt en afgerond.
 
 Ik vond de Python courses erg leuk maar wel tijdrovend. Vooral omdat het project zoveel tijd vereist blijft er weinig tijd over om zelf opdrachten uit te voeren.
 
-## Coursera
+### Coursera
+Tijdens de minor is geavanceerde wiskundige kennis nodig om machine learning te begrijpen. Ik zal mijn voortgang hiervan vastleggen.
+
 Voor coursera heb ik de volgende hoofdstukken afgerond.
 
 * 1 Linear Regression with One variable
@@ -69,6 +48,27 @@ Voor coursera heb ik de volgende hoofdstukken afgerond.
 * 6 Advice for Applying Machine Learning
 
 Voor het project vond ik Coursera wel een zware pil. Voor het Urbinn project is het wel leuk als je een beetje begrijpt van machine learning. Echter vond ik de hele coursera course erg zwaar voor het blok en heel erg tijdrovent.
+
+### Code opdrachten
+Gedurende de minor heb ik verschillende code opdrachten uitgevoerd waaronder de spark tutorial. Deze heb ik opgenomen in mijn portfolio.
+
+### Issues
+In mijn portfolio heb ik de issues waar ik aan heb gewerkt opgenomen. Over deze issues heb ik een uitleg gegeven wat ik heb uitgevoerd.
+
+### Bullshit opdracht
+Ik heb de opdrachten en illustraties, die ik heb gebruikt voor de bullshitopdrachten, opgenomen in mijn portfolio.
+
+![alt text](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/bullshit%20opdracht/gold%20and%20wealth.png "Logo Title Text 1")
+
+### Eigen code notebooks
+Zelf heb ik niet veel code uitgevoerd omdat dit niet mijn expertise is. Wel heb ik de notebooks met code opgenomen in mijn portfolio.
+
+### Reflectie
+In de reflectie documenteer ik mijn bevindingen van de gebeurtenissen in het blok waar ik bij betrokken was. Hier schrijf ik op wat ik gedaan heb en wat mijn bevindingen hierover zijn. Ik heb na week 6 hier niet meer verder aan gewerkt vanwege de tijd die ik overhield om aan mijn huiswerkopdrachten en project te werken.
+
+------------------------------------------
+
+[![Python certificaat](https://github.com/BobvanElburg/Portfolio_kb-47/Datacamp/certificate python.pdf)](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Datacamp/certificate%20python.pdf)
 
 ## Issues
 |issue|uitleg|
