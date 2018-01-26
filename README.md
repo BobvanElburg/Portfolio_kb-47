@@ -40,6 +40,7 @@ Zelf heb ik niet veel code uitgevoerd omdat dit niet mijn expertise is. Wel heb 
 
 ### Reflectie
 In de reflectie documenteer ik mijn bevindingen van de gebeurtenissen in het blok waar ik bij betrokken was. Hier schrijf ik op wat ik gedaan heb en wat mijn bevindingen hierover zijn. Ik heb na week 6 hier niet meer verder aan gewerkt vanwege de tijd die ik overhield om aan mijn huiswerkopdrachten en project te werken.
+
 ------------------------------------------
 
 [![Python certificaat](https://github.com/BobvanElburg/Portfolio_kb-47/Datacamp/certificate python.pdf)](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Datacamp/certificate%20python.pdf)
