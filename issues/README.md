@@ -17,6 +17,6 @@
 |154|Gewerkt aan het opzetten van het hoofdstuk "design" voor de paper.|
 |155|Bezig geweest met het hoofdstuk "experiment" te ontwikkelen in de paper.|
 |156|Meegeholpen met de evaluatie.|
-|157|Het hoofdstuk "Results" gecontroleerd.|
+|157|Het hoofdstuk "Results" ontwikkelt en gecontroleerd.|
 |158|Mede vorm gegeven aan de discussie.|
-|159|In samenspraak conclusies getrokken voor de paper.|
+|159|In samenspraak conclusies gevormd voor de paper.|
