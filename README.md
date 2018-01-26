@@ -2,7 +2,7 @@
 Portfolio van Bob van Elburg
 
 --------------------------------------------------------------------------------
-## Inhoud
+## Inhoud inclusief links naar documenten, pdf's en images
 * [Documenten](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Documenten)
 * [Presentaties](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Presentaties)
 * [Datacamp](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Datacamp)
@@ -26,8 +26,20 @@ Voor de minor is de vraag naar kennis over de codetaal Python. Het is lastig om 
 ### Coursera
 Tijdens de minor is geavanceerde wiskundige kennis nodig om machine learning te begrijpen. Ik zal mijn voortgang hiervan vastleggen.
 
+### Code opdrachten
+Gedurende de minor heb ik verschillende code opdrachten uitgevoerd waaronder de spark tutorial. Deze heb ik opgenomen in mijn portfolio.
+
+### Issues
+In mijn portfolio heb ik de issues waar ik aan heb gewerkt opgenomen. Over deze issues heb ik een uitleg gegeven wat ik heb uitgevoerd.
+
+### Bullshit opdracht
+Ik heb de opdrachten en illustraties, die ik heb gebruikt voor de bullshitopdrachten, opgenomen in mijn portfolio.
+
+### Eigen code notebooks
+Zelf heb ik niet veel code uitgevoerd omdat dit niet mijn expertise is. Wel heb ik de notebooks met code opgenomen in mijn portfolio.
+
 ### Reflectie
-In de reflectie documenteer ik mijn bevindingen van de gebeurtenissen in het blok waar ik bij betrokken was. Hier schrijf ik op wat ik gedaan heb en wat mijn bevindingen hierover zijn.
+In de reflectie documenteer ik mijn bevindingen van de gebeurtenissen in het blok waar ik bij betrokken was. Hier schrijf ik op wat ik gedaan heb en wat mijn bevindingen hierover zijn. Ik heb na week 6 hier niet meer verder aan gewerkt vanwege de tijd die ik overhield om aan mijn huiswerkopdrachten en project te werken.
 ------------------------------------------
 
 [![Python certificaat](https://github.com/BobvanElburg/Portfolio_kb-47/Datacamp/certificate python.pdf)](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Datacamp/certificate%20python.pdf)
