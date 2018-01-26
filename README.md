@@ -15,13 +15,13 @@ Portfolio van Bob van Elburg
 * Reflectie (Verder op deze pagina)
 
 ---------------------------------------------------------------------------------
-### Documenten
+### [Documenten](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Documenten)
 Tijdens de minor KB-47 heb ik verschillende documenten opgesteld. Deze zal ik in een aparte map plaatsen om mijn contributie aan de groep vast te leggen.
 
 ### [Presentaties](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Presentaties)
 Iedere week worden er presentaties gehouden om de voortgang van het project te bespreken. De presentaties waar ik aan mee heb geholpen zal ik in een aparte map plaatsen ter vastlegging van mijn contributie.
 
-### Datacamp
+### [Datacamp](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Datacamp)
 Voor de minor is de vraag naar kennis over de codetaal Python. Het is lastig om hiervan de voortgang vast te leggen. Ik probeer zoveel mogelijk informatie vast te leggen om mijn voortgang te laten zien.
 
 Voor datacamp heb ik de volgende courses gemaakt en afgerond.
@@ -38,7 +38,7 @@ Voor datacamp heb ik de volgende courses gemaakt en afgerond.
 
 Ik vond de Python courses erg leuk maar wel tijdrovend. Vooral omdat het project zoveel tijd vereist blijft er weinig tijd over om zelf opdrachten uit te voeren.
 
-### Coursera
+### [Coursera](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Coursera)
 Tijdens de minor is geavanceerde wiskundige kennis nodig om machine learning te begrijpen. Ik zal mijn voortgang hiervan vastleggen.
 
 Voor coursera heb ik de volgende hoofdstukken afgerond.
@@ -50,10 +50,10 @@ Voor coursera heb ik de volgende hoofdstukken afgerond.
 
 Voor het project vond ik Coursera wel een zware pil. Voor het Urbinn project is het wel leuk als je een beetje begrijpt van machine learning. Echter vond ik de hele coursera course erg zwaar voor het blok en heel erg tijdrovent.
 
-### Code opdrachten
+### [Code opdrachten](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/notebook%20tutorials)
 Gedurende de minor heb ik verschillende code opdrachten uitgevoerd waaronder de spark tutorial. Deze heb ik opgenomen in mijn portfolio.
 
-### Issues
+### [Issues](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/issues)
 In mijn portfolio heb ik de issues waar ik aan heb gewerkt opgenomen. Over deze issues heb ik een uitleg gegeven wat ik heb uitgevoerd.
 
 |issue|uitleg|
@@ -79,12 +79,12 @@ In mijn portfolio heb ik de issues waar ik aan heb gewerkt opgenomen. Over deze 
 |158|Mede vorm gegeven aan de discussie.|
 |159|In samenspraak conclusies gevormd voor de paper.|
 
-### Bullshit opdracht
+### [Bullshit opdracht](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/bullshit%20opdracht)
 Ik heb de opdrachten en illustraties, die ik heb gebruikt voor de bullshitopdrachten, opgenomen in mijn portfolio.
 
 ![alt text](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/bullshit%20opdracht/gold%20and%20wealth.png "Logo Title Text 1")
 
-### Eigen code notebooks
+### [Eigen code/notebooks](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/bullshit%20opdracht)
 Zelf heb ik niet veel code uitgevoerd omdat dit niet mijn expertise is. Wel heb ik de notebooks met code opgenomen in mijn portfolio.
 
 ### Reflectie
