@@ -72,7 +72,7 @@ Voor het project vond ik Coursera wel een zware pil. Voor het Urbinn project is 
 
 ## Issues
 |issue|uitleg|
-|------|-----|
+|-----|------|
 |43|Voor het project Urbinn was het doel gesteld om de software en hardware te evalueren.Hiervoor heb ik een template gemaakt voor het evaluatieplan. Later werdt het evaluatieplan on-hold gezet.|
 |52|Met het kijken hoe evaluatie van TUM is uitgevoerd heb ik verschillende papers gelezen over soortgelijke projecten. Hierbij moest ik kijken hoe het evalueren van object detecteion en seamntic mapping was uitgevoerd en hoe wij dit zelf konden evalueren.|
 |55|Voor deze issue heb ik met andere groepsleden een reeks papers gelezen die gerelateerd waren aan object detection.Een van deze papers bleek echter niet bruikbaar te zijn omdat zij objecten detecteerden aan de hand van een vaste achtergrond.|
@@ -93,6 +93,11 @@ Voor het project vond ik Coursera wel een zware pil. Voor het Urbinn project is 
 |157|Het hoofdstuk "Results" gecontroleerd.|
 |158|Mede vorm gegeven aan de discussie.|
 |159|In samenspraak conclusies getrokken voor de paper.|
+
+## Bullshit opdracht
+Voor de bullshit opdracht heb ik presentaties en een opdracht uitgevoerd. Deze opdracht en presentaties samen met de foto's staan in de git library.
+[logo]: https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/bullshit%20opdracht/gold%20and%20wealth.png "Logo Title Text 2"
+
 
 ## Reflectie
 De minor kb-47 vond ik een erg interessante minorkeuze. De minor trok mijn aandacht op het gebied van onderzoek en samenwerking met anderen op verschillende expertisegebieden. 
