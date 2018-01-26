@@ -19,7 +19,14 @@ Portfolio van Bob van Elburg
 Tijdens de minor KB-47 heb ik verschillende documenten opgesteld. Deze zal ik in een aparte map plaatsen om mijn contributie aan de groep vast te leggen.
 
 ### [Presentaties](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Presentaties)
-Iedere week worden er presentaties gehouden om de voortgang van het project te bespreken. De presentaties waar ik aan mee heb geholpen zal ik in een aparte map plaatsen ter vastlegging van mijn contributie.
+Iedere week worden er presentaties gehouden om de voortgang van het project te bespreken. De presentaties waar ik aan mee heb geholpen zal ik in een aparte map plaatsen ter vastlegging van mijn contributie. Tijdens de minor heb ik voor een paar mensen ingevallen. Verder heb ik in de volgende weken gepresenteerd.
+
+* Week 1 EM-Fields
+* Week 2 EM-Fields
+* Week 8 Urbinn
+* Week 9 Urbinn
+* Week 10 Urbinn
+* Calling Bullshit - John Deere & Big Data (naamloze presentatie.pptx)
 
 ### [Datacamp](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Datacamp)
 Voor de minor is de vraag naar kennis over de codetaal Python. Het is lastig om hiervan de voortgang vast te leggen. Ik probeer zoveel mogelijk informatie vast te leggen om mijn voortgang te laten zien.
