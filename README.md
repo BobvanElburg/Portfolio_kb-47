@@ -55,22 +55,6 @@ Gedurende de minor heb ik verschillende code opdrachten uitgevoerd waaronder de 
 ### Issues
 In mijn portfolio heb ik de issues waar ik aan heb gewerkt opgenomen. Over deze issues heb ik een uitleg gegeven wat ik heb uitgevoerd.
 
-### Bullshit opdracht
-Ik heb de opdrachten en illustraties, die ik heb gebruikt voor de bullshitopdrachten, opgenomen in mijn portfolio.
-
-![alt text](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/bullshit%20opdracht/gold%20and%20wealth.png "Logo Title Text 1")
-
-### Eigen code notebooks
-Zelf heb ik niet veel code uitgevoerd omdat dit niet mijn expertise is. Wel heb ik de notebooks met code opgenomen in mijn portfolio.
-
-### Reflectie
-In de reflectie documenteer ik mijn bevindingen van de gebeurtenissen in het blok waar ik bij betrokken was. Hier schrijf ik op wat ik gedaan heb en wat mijn bevindingen hierover zijn. Ik heb na week 6 hier niet meer verder aan gewerkt vanwege de tijd die ik overhield om aan mijn huiswerkopdrachten en project te werken.
-
-------------------------------------------
-
-[![Python certificaat](https://github.com/BobvanElburg/Portfolio_kb-47/Datacamp/certificate python.pdf)](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Datacamp/certificate%20python.pdf)
-
-## Issues
 |issue|uitleg|
 |-----|------|
 |43|Voor het project Urbinn was het doel gesteld om de software en hardware te evalueren.Hiervoor heb ik een template gemaakt voor het evaluatieplan. Later werdt het evaluatieplan on-hold gezet.|
@@ -94,13 +78,15 @@ In de reflectie documenteer ik mijn bevindingen van de gebeurtenissen in het blo
 |158|Mede vorm gegeven aan de discussie.|
 |159|In samenspraak conclusies getrokken voor de paper.|
 
-## Bullshit opdracht
-Voor de bullshit opdracht heb ik presentaties en een opdracht uitgevoerd. Deze opdracht en presentaties samen met de foto's staan in de git library.
+### Bullshit opdracht
+Ik heb de opdrachten en illustraties, die ik heb gebruikt voor de bullshitopdrachten, opgenomen in mijn portfolio.
+
 ![alt text](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/bullshit%20opdracht/gold%20and%20wealth.png "Logo Title Text 1")
 
+### Eigen code notebooks
+Zelf heb ik niet veel code uitgevoerd omdat dit niet mijn expertise is. Wel heb ik de notebooks met code opgenomen in mijn portfolio.
 
-
-## Reflectie
+### Reflectie
 De minor kb-47 vond ik een erg interessante minorkeuze. De minor trok mijn aandacht op het gebied van onderzoek en samenwerking met anderen op verschillende expertisegebieden. 
 
 
@@ -123,3 +109,5 @@ In week 5 heb ik mij bezig gehouden met het maken van een evaluatieplan die de a
 In week 6 is de taak aangepast om specifieker hhet probleem aan te pakken. Deze taak heb ik samen met Isa Isaku(groepslid) opgepakt. Samen met Isa heb ik aan tafel gezeten om te kijken wat precies geëvalueerd moest worden. Dit gesprek was erg zinvol en hebben we samen veel bereikt op het vaststellen wat precies geëvalueerd moet worden. Dit hebben we later gedocumenteerd.
 
 Aan het einde van week 6 hebben Isa en ik de voortgang van de sprint gepresenteerd aan de andere groepen/projecten. Deze presentatie hebben we opgedeeld in twee stukken. Isa heeft de eerste helft gepresenteerd en ik de tweede helft. In de tweede helft van de presentatie heb ik de nieuwe planning van het project uitgelegd. Hiernaast heb ik ook uitleg gegeven over de aankomende focus van de groep waar de projectgroep verder mee zal gaan. Ik vond het erg belangrijk om te presenteren voor mijn eigen ontwikkeling. Een van mijn mindere punten is het presenteren voor grotere groepen en vind dit een goed leerpunt voor mijzelf. 
+
+------------------------------------------
