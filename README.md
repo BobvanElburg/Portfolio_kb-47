@@ -66,9 +66,10 @@ In mijn portfolio heb ik de issues waar ik aan heb gewerkt opgenomen. Over deze 
 |issue|uitleg|
 |-----|------|
 |43|Voor het project Urbinn was het doel gesteld om de software en hardware te evalueren. Hiervoor was het benodigt om een template te maken voor het maken van een evaluatieplan. Ik heb de template gemaakt voor evaluatiedocumenten. Hierop heb ik een evaluatieplan geschreven.|
-|52|Met het kijken hoe evaluatie van TUM is uitgevoerd heb ik verschillende papers gelezen over soortgelijke projecten. Hierbij moest ik kijken hoe het evalueren van object detecteion en seamntic mapping was uitgevoerd en hoe wij dit zelf konden evalueren.|
-|55|Voor deze issue heb ik met andere groepsleden een reeks papers gelezen die gerelateerd waren aan object detection.Een van deze papers bleek echter niet bruikbaar te zijn omdat zij objecten detecteerden aan de hand van een vaste achtergrond.|
-|63|In issue 63 heb ik samen met groepsleden gekeken hoe de pointcloud geavalueerd kan worden door deze te vergelijken met een andere pointcloud.|
+|52|In deze issue is de nadruk gelegd om naar evaluatiemethode te kijken die relevant zijn voor ons project. Ik heb gekeken naar verschillende papers die bbetrekking hebben tot ons project. Ik heb de paper van TUM gebruikt voor informatie over de uitvoer van de evaluatie over Object Detection en Semantic mapping en hoe wij dit zelf kunnen toepassen.|
+|55|In deze issue is het doel om papers, die gerelateerd zijn aan object detection, kritisch te lezen. Ik heb een paper eruitgehaald omdat deze niet de juiste methode hanteren om objecten te herkennen die bruikbaar is voor ons project.|
+|63|In deze Issue moest ik de pointcloud tegenover een andere pointcloud zetten. Samen met Isa heb ik gewerkt om een pointcloud van de KITTI-dataset(ground truth) over de eigen pointcloud die wij met ORB-Slam2 hebben gemaakt.|
+
 |68|In deze Issue heb ik gekeken hoe het programma "Tiny Yolo" getraind kon worden. Hierbij keek ik naar de informatie dat het programma nodig had en hoe het trainingsproces in elkaar zat.|
 |77|Voor deze issue heb ik een presentatie gemaakt en de blog bijgewerkt.|
 |86|Ik heb samen met groepsleden de trainingsdata van Kitti opnieuw gelabeld om zo nieuwe trainingsdata voor Yolo te maken.|
