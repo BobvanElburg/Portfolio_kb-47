@@ -65,10 +65,7 @@ In mijn portfolio heb ik de issues waar ik aan heb gewerkt opgenomen. Over deze 
 
 |issue|uitleg|
 |-----|------|
-|43|Voor het project Urbinn was het doel gesteld om de software en hardware te evalueren. 
-Hiervoor was het benodigt om een template te maken voor het maken van een evaluatieplan.
-Ik heb de template gemaakt voor evaluatiedocumenten.
-Hierop heb ik een evaluatieplan geschreven.|
+|43|Voor het project Urbinn was het doel gesteld om de software en hardware te evalueren. Hiervoor was het benodigt om een template te maken voor het maken van een evaluatieplan. Ik heb de template gemaakt voor evaluatiedocumenten. Hierop heb ik een evaluatieplan geschreven.|
 |52|Met het kijken hoe evaluatie van TUM is uitgevoerd heb ik verschillende papers gelezen over soortgelijke projecten. Hierbij moest ik kijken hoe het evalueren van object detecteion en seamntic mapping was uitgevoerd en hoe wij dit zelf konden evalueren.|
 |55|Voor deze issue heb ik met andere groepsleden een reeks papers gelezen die gerelateerd waren aan object detection.Een van deze papers bleek echter niet bruikbaar te zijn omdat zij objecten detecteerden aan de hand van een vaste achtergrond.|
 |63|In issue 63 heb ik samen met groepsleden gekeken hoe de pointcloud geavalueerd kan worden door deze te vergelijken met een andere pointcloud.|
