@@ -16,19 +16,6 @@ Portfolio van Bob van Elburg
 
 ---------------------------------------------------------------------------------
 ## Algemene onderdelen
-### [Documenten](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Documenten)
-Tijdens de minor KB-47 heb ik verschillende documenten opgesteld. Deze zal ik in een aparte map plaatsen om mijn contributie aan de groep vast te leggen.
-
-### [Presentaties](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Presentaties)
-Iedere week worden er presentaties gehouden om de voortgang van het project te bespreken. De presentaties waar ik aan mee heb geholpen zal ik in een aparte map plaatsen ter vastlegging van mijn contributie. Tijdens de minor heb ik voor een paar mensen ingevallen. Verder heb ik in de volgende weken gepresenteerd.
-
-* Week 1 EM-Fields
-* Week 2 EM-Fields
-* Week 8 Urbinn
-* Week 9 Urbinn
-* Week 10 Urbinn
-* Calling Bullshit - John Deere & Big Data (naamloze presentatie.pptx)
-
 ### [Datacamp](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Datacamp)
 Voor de minor is de vraag naar kennis over de codetaal Python. Het is lastig om hiervan de voortgang vast te leggen. Ik probeer zoveel mogelijk informatie vast te leggen om mijn voortgang te laten zien.
 
@@ -91,6 +78,19 @@ In mijn portfolio heb ik de issues waar ik aan heb gewerkt opgenomen. Over deze 
 ### [Bullshit opdracht](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/bullshit%20opdracht)
 Ik heb de opdrachten en illustraties, die ik heb gebruikt voor de bullshitopdrachten, opgenomen in mijn portfolio.
 
+## Unieke bijdrage
+### [Documenten](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Documenten)
+Tijdens de minor KB-47 heb ik verschillende documenten opgesteld. Deze zal ik in een aparte map plaatsen om mijn contributie aan de groep vast te leggen.
+
+### [Presentaties](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Presentaties)
+Iedere week worden er presentaties gehouden om de voortgang van het project te bespreken. De presentaties waar ik aan mee heb geholpen zal ik in een aparte map plaatsen ter vastlegging van mijn contributie. Tijdens de minor heb ik voor een paar mensen ingevallen. Verder heb ik in de volgende weken gepresenteerd.
+
+* Week 1 EM-Fields
+* Week 2 EM-Fields
+* Week 8 Urbinn
+* Week 9 Urbinn
+* Week 10 Urbinn
+* Calling Bullshit - John Deere & Big Data (naamloze presentatie.pptx)
 ![alt text](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/bullshit%20opdracht/gold%20and%20wealth.png "Logo Title Text 1")
 
 ### [Eigen code/notebooks](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/bullshit%20opdracht)
