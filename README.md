@@ -64,7 +64,7 @@ In mijn portfolio heb ik de issues waar ik aan heb gewerkt opgenomen. Over deze 
 |104|Samen met Viradj opnamens gemaakt met de stereo camera voor trainingsdoeleinden.|---|
 |114|Samen met Viradj plannen gemaakt voor de opnamens van Delft. Hierbij hebben we routes gemaakt en later is dit uitgevoerd.|---|
 |120|Met het RGB naar HSV hue experiment heb ik zelf code geschreven voor het omzetten van RGB afbeeldingen naar HSV hue. Deze afbeeldingen worden dan ook opgeslagen op de jupyter server. Ik vond dit lastig maar het lukte uiteindelijk wel.|---|
-|130|Voor deze issue is aan mij opgedragen een stuk code opnieuw te scrijven om een pointcloud te maken. Echter heb ik dit niet kunnen afronden en heb hierom hulp gevraagd bij groepsleden. Ik vond dit op het gebied van coding wel uitdagend maar had na een tijdje wel door dat dit teveel was voor mij.|---|
+|130|Voor deze issue is aan mij opgedragen een stuk code opnieuw te scrijven om een pointcloud te maken.|---|
 |152|Ik heb in samenwerking de introductie gemaakt voor de paper.|---|
 |153|In de paper heb ik in samenwerking het hoofdstuk "related work" geschreven.|---|
 |154|Gewerkt aan het opzetten van het hoofdstuk "design" voor de paper.|---|
