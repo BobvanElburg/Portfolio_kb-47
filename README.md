@@ -30,24 +30,19 @@ Naar aanleiding van mijn achtergrond hebik mij meer gericht op het maken van pla
 
 Voor het genereren van beeldmateriaal was stereo beeld benodigd. Door het gebruik van stereobeelden was het mogelijk om niet alleen beter putnen te herkennen maar ook om beter diepte te bepalen. De informatie die opgehaald moest worden was ook deels de "Ground-truth". De ground truth is erg belangrijk voor het project om de progressie te evalueren en te kijken hoe goed het product (semantische map) is tegenover de ground-truth.
 
-In samenwerking met groepsgenoten heb ik onderzoek uitgevoerd voor manieren om ons product te evalueren. Hier hebben we wat methodes gevonden waarvan wij dachten toepasbaar te zijn.
+In samenwerking met groepsgenoten heb ik onderzoek uitgevoerd voor manieren om ons product te evalueren. Hier hebben we wat methodes gevonden, waarvan wij dachten, toepasbaar zijn.
 
-*********
-Samen met enkele groepsgenoten heb ik deskstudies uitgevoerd om zo een geschikte kandidaat te selecteren voor Object detectie vanaf afbeeldingen. Het oog viel uiteindelijk op YOLO.
+Een van deze methodes is het vergelijken van pointclouds. Een pointcloud is een map gemaakt uit punten die zijn geïdentificeerd en gevisualiseerd door een programma zoals ORB-Slam2. Deze pointcloud plaats je over de pointcloud dat de ground-truth dient te zijn en hier kijkt of er verschillen aanwezig zijn om de accuraatheid te meten. Dit heb ik samen met Isa uitgevoerd.
 
-YOLO is een machine learning framework dat op basis van een convolution neural network objecten in afbeeldingen kan herkennen. Dit framework maakt gebruik van de NVidia CUDA API om de vele 'simpele' berekeningen uit te besteden aan videokaarten.
+Tussentijds heb ik de groep geholpen met kleine taken zoals het controleren van papers, documenten, het meedenken over oplossingen voor code.
 
-Omdat er leveringsproblemen waren met de server en de videokaart van de minor liep het onderzoek naar YOLO wat vertraging op in deze tijd ben ik verschillende set-ups met stereo camera's gaan testen.
+Samen met Viradj heb ik geholpen met het maken van beeldmateriaal voor de groep. Voor het maken van dit beeldmateriaal hebben we een trolly gebruikt met mij erop terwijl ik een laptop en camera vathield. Hierdoor hebben we camera opnames gemaakt van twee kleine routes vlak bij de Haagse Hogeschool.
+[insert image of cart here]
 
-Tussentijds heb ik toegang verkregen tot de server van de universiteit Leiden, hier heb ik enkele expirimenten met yolo uit kunnen voeren, echter bleven de testen beperkt tot het minimale om zo de overige gebruikers niet te veel te hinderen.
+Samen met Nektarios, Kevin en Viradj heb ik meer dan 500 foto's gelabeld. Iedere foto bevatte gemiddeld meer dan 15 verschillende objecten die gelabeld moesten worden zodat we het programma YOLO verder konden trainen om overfitting te voorkomen. Chris heeft hier later een testrun overheen laten lopen.
+[insert YOLO test image here]
 
-Toen uiteindelijk de GPU werdt geleverd moest deze nog van passende drivers worden voorzien, hier heb ik voor gezorgd.
 
-Ik heb een groep geleid voor het maken van een eigen trainingset t.b.v. het trainen van YOLO op specifieke objecten.
-
-Met de GPU geleverd kon ik verder gaan met onderzoeken met YOLO de diverse resultaten hiervan zijn te vinden in de uitgelichte onderwerpen.
-[kijk verder naar voorbeeld chris]
-********
 
 ---------------------------------------------------------------------------------
 ## Algemene onderdelen
