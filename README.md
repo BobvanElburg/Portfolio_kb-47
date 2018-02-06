@@ -1,18 +1,14 @@
-# Portfolio_kb-47
-Portfolio van Bob van Elburg
+# Portfolio_kb-74
+Welkom op mijn Portfolio. Deze portfolio heb ik gemaakt gedurende het blok KB-74. In de portfolio heb ik mijn uitgevoerde taken opgenomen.
+
+De initiële afspraak die is gemaakt met docenten was dat iedere portfolio om de 4 weken feedback zou ontvangen. Echter is in week 15/16 feedback gegeven die niet diepgaant was en geen extra toevoeging gaf op wat er in de portfolio dient te worden toegevoegd naast de minimalistische beoordelingslijst.
 
 --------------------------------------------------------------------------------
-## Inhoud inclusief links naar documenten, pdf's en images
-* [Master Branche Github](https://github.com/BobvanElburg/Portfolio_kb-47)
-* [Documenten](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Documenten)
-* [Presentaties](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Presentaties)
-* [Datacamp](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Datacamp)
-* [Coursera](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Coursera)
-* [Code opdrachten](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/notebook%20tutorials)
-* [Issues](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/issues)
-* [Bullshit opdracht](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/bullshit%20opdracht)
-* [Eigen code/notebooks](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/bullshit%20opdracht)
-* Reflectie (Verder op deze pagina)
+## KB-74
+De minor kb-74 gaat over "Applied Data Science". In deze minor is de nadruk gelegt op het onderwerp "Machine learning". In deze minor hadden we keuze uit 4 projecten. Aan de start van de minor heb ik gewerkt in de groep EM-Fields waarin ik onderzoek heb uitgevoerd over elektromagnetische straling. Echter werdt deze groep opgeheven aan het eind van week 3 vanwege een te grote druk bij de begeleidend docent. Ik heb in week 4 een nieuw projectgroep moeten kiezen om mijn minor voort te zetten. In die tijd heb ik gekozen voor het project Urbinn.
+
+Het project Urbinn focust zich op het onderdeel "Autonoom rijden" met nadruk op het maken van een "Semantische kaart". Om nog specifieker te zijn moest er een semantische kaart worden gemaakt van de omgeving Delft. Deze kaart dient om de omgeving van de route vast te leggen. Deze kaart van de omgeving zal dan later weer gebruikt worden door het voertuig van Urbinn om te navigeren door het stedelijke gebied.
+
 
 ---------------------------------------------------------------------------------
 ## Algemene onderdelen
