@@ -92,9 +92,9 @@ In mijn portfolio heb ik de issues waar ik aan heb gewerkt opgenomen. Over deze 
 |52|In deze issue is de nadruk gelegd om naar evaluatiemethode te kijken die relevant zijn voor ons project. Ik heb gekeken naar verschillende papers die bbetrekking hebben tot ons project. Ik heb de paper van TUM gebruikt voor informatie over de uitvoer van de evaluatie over Object Detection en Semantic mapping en hoe wij dit zelf kunnen toepassen.|Papers: ECMR_2015_Razlaw, measuring the accuracy of slam algorythms, sturm12iros_ws, Document: Evaluatie TUM & ORB SLAM2|
 |55|In deze issue is het doel om papers, die gerelateerd zijn aan object detection, kritisch te lezen. Ik heb een paper eruitgehaald omdat deze niet de juiste methode hanteren om objecten te herkennen die bruikbaar is voor ons project.|---|
 |63|In deze Issue moest ik de pointcloud tegenover een andere pointcloud zetten. Samen met Isa heb ik gewerkt om een pointcloud van de KITTI-dataset(ground truth) over de eigen pointcloud die wij met ORB-Slam2 hebben gemaakt.|Document: Issue 63 - Evaluatieplan point cloud|
-|68| In issue 68 was het doel om onderzoek te doen naar de manier waarop "Tiny Yolo" getraind wordt en hoe het trainingsproces werkt. In deze Issue heb ik gekeken hoe het programma "Tiny Yolo" getraind kon worden. Hierbij keek ik naar de informatie dat het programma nodig had en hoe het trainingsproces in elkaar zat.|---|
+|68| In issue 68 was het doel om onderzoek te doen naar de manier waarop "Tiny Yolo" getraind wordt en hoe het trainingsproces werkt. In deze Issue heb ik gekeken hoe het programma "Tiny Yolo" getraind kon worden. Hierbij keek ik naar de informatie dat het programma nodig had en hoe het trainingsproces in elkaar zat. Dit heeft mij duidelijkheid gegeven over de werking van Yolo en hoe deze leert aan de hand van eerder gelabelde plaatjes. Het deel over het convolutional netwerk vond ik erg interessant. Dat door een afbeelding in kleinere delen te splitsen en verschillende kanalen en hier met een bepaalde zekerheid kan worden aangetoond dat het een object is, is erg fascinerend.|---|
 |77|Voor deze issue heb ik een presentatie gemaakt en de blog bijgewerkt.|---|
-|86|Ik heb samen met groepsleden de trainingsdata van Kitti opnieuw gelabeld om zo nieuwe trainingsdata voor Yolo te maken.|---|
+|86|Ik heb samen met groepsleden de trainingsdata van Kitti opnieuw gelabeld om zo nieuwe trainingsdata voor Yolo te maken. Hiermee hopen er het probleem op te lossen dat ons objectherkenningssysteem niet overfit door meer trainingsdata toe te voegen.|---|
 |87|Papers gezocht voor close reading sessie.|---|
 |104|Samen met Viradj opnamens gemaakt met de stereo camera voor trainingsdoeleinden.|---|
 |114|Samen met Viradj plannen gemaakt voor de opnamens van Delft. Hierbij hebben we routes gemaakt en later is dit uitgevoerd.|---|
@@ -104,9 +104,9 @@ In mijn portfolio heb ik de issues waar ik aan heb gewerkt opgenomen. Over deze 
 |153|In de paper heb ik in samenwerking het hoofdstuk "related work" geschreven.|---|
 |154|Gewerkt aan het opzetten van het hoofdstuk "design" voor de paper.|---|
 |155|Bezig geweest met het hoofdstuk "experiment" te ontwikkelen in de paper.|---|
-|156|Meegeholpen met de evaluatie.|---|
-|157|Het hoofdstuk "Results" ontwikkelt en gecontroleerd.|---|
-|158|Mede vorm gegeven aan de discussie.|---|
+|156|Meegeholpen met het hoofdstuk "Evaluatie" van de paper.|---|
+|157|Het hoofdstuk "Results" van de paper geschreven en gecontroleerd.|---|
+|158|Mede vorm gegeven aan de discussie van de paper.|---|
 |159|In samenspraak conclusies gevormd voor de paper.|---|
 
 ### [Bullshit opdracht](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/bullshit%20opdracht)
