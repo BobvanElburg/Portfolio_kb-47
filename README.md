@@ -19,10 +19,35 @@ In mijn portfolio zijn de volgende onderdelen te vinden:
  - Uitgelichte onderwerpen
  - Workshop opdrachten
  
-In week vier van het blok heb ik mij samengevoegt in de groep Urbinn. In die tijd was er al vooronderzoek uitgevoerd over de basis van het project en welke richitng het project op wou gaan. 
+In week vier van het blok heb ik mij samengevoegt in de groep Urbinn. In die tijd was er al vooronderzoek uitgevoerd over de basis van het project en welke richitng het project op ging. Ik heb het vooronderzoek doorgelezen zodat ik de stof begreep en met de rest verder kon werken.
 
+Het werdt duidelijk voor me dat het maken van een semantische map meerdere onderdelen nodig zijn. een paar van deze onderdelen zijn:
+ - Beeldmateriaal
+ - Geclassificeerde objecten
+ - Ruimtelijke kaart
+
+Naar aanleiding van mijn achtergrond hebik mij meer gericht op het maken van plannen voor het vergaren van informatie en het uitvoeren van evaluaties.
+
+Voor het genereren van beeldmateriaal was stereo beeld benodigd. Door het gebruik van stereobeelden was het mogelijk om niet alleen beter putnen te herkennen maar ook om beter diepte te bepalen. De informatie die opgehaald moest worden was ook deels de "Ground-truth". De ground truth is erg belangrijk voor het project om de progressie te evalueren en te kijken hoe goed het product (semantische map) is tegenover de ground-truth.
+
+In samenwerking met groepsgenoten heb ik onderzoek uitgevoerd voor manieren om ons product te evalueren. Hier hebben we wat methodes gevonden waarvan wij dachten toepasbaar te zijn.
+
+*********
+Samen met enkele groepsgenoten heb ik deskstudies uitgevoerd om zo een geschikte kandidaat te selecteren voor Object detectie vanaf afbeeldingen. Het oog viel uiteindelijk op YOLO.
+
+YOLO is een machine learning framework dat op basis van een convolution neural network objecten in afbeeldingen kan herkennen. Dit framework maakt gebruik van de NVidia CUDA API om de vele 'simpele' berekeningen uit te besteden aan videokaarten.
+
+Omdat er leveringsproblemen waren met de server en de videokaart van de minor liep het onderzoek naar YOLO wat vertraging op in deze tijd ben ik verschillende set-ups met stereo camera's gaan testen.
+
+Tussentijds heb ik toegang verkregen tot de server van de universiteit Leiden, hier heb ik enkele expirimenten met yolo uit kunnen voeren, echter bleven de testen beperkt tot het minimale om zo de overige gebruikers niet te veel te hinderen.
+
+Toen uiteindelijk de GPU werdt geleverd moest deze nog van passende drivers worden voorzien, hier heb ik voor gezorgd.
+
+Ik heb een groep geleid voor het maken van een eigen trainingset t.b.v. het trainen van YOLO op specifieke objecten.
+
+Met de GPU geleverd kon ik verder gaan met onderzoeken met YOLO de diverse resultaten hiervan zijn te vinden in de uitgelichte onderwerpen.
 [kijk verder naar voorbeeld chris]
-
+********
 
 ---------------------------------------------------------------------------------
 ## Algemene onderdelen
