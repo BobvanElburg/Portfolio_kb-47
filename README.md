@@ -75,19 +75,19 @@ Voor coursera heb ik de volgende hoofdstukken afgerond.
 * Week 6 Advice for Applying Machine Learning
 
 Coursera afbeeldingen.
-<br> Afbeelding 1: [Afbeelding van overzicht 1](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Coursera/coursera%20progress%201.PNG)
-<br> Afbeelding 2:
+* Afbeelding 1: [Afbeelding van overzicht 1](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Coursera/coursera%20progress%201.PNG)
+* Afbeelding 2:
 [Afbeelding van overzicht 2](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Coursera/coursera%20progress%202.PNG)
-<br> Afbeelding 3:
+* Afbeelding 3:
 [Afbeelding van overzicht 3](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Coursera/extra%20coursera%20foto.PNG)
 
 Voor het project vond ik Coursera wel een zware pil. Voor het Urbinn project is het wel leuk als je een beetje begrijpt van machine learning. Echter vond ik de hele coursera course erg zwaar voor het blok en heel erg tijdrovent.
 
 ### [Code opdrachten](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/notebook%20tutorials)
 Gedurende de minor heb ik verschillende code opdrachten uitgevoerd waaronder de spark tutorial. Deze heb ik opgenomen in mijn portfolio.
-<br>[Spark deel 1](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Spark/assignment1.md)
-<br>[Spark deel 2](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Spark/assignment2.md)
-<br>[Exploratory_data_analysis plaatjes](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Exploratory_data_analysis)
+* [Spark deel 1](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Spark/assignment1.md)
+* [Spark deel 2](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Spark/assignment2.md)
+* [Exploratory_data_analysis plaatjes](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Exploratory_data_analysis)
 
 
 ### [Issues](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/issues)
