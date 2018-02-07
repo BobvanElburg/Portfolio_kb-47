@@ -126,13 +126,13 @@ Tijdens de minor KB-47 heb ik verschillende documenten opgesteld. Deze zal ik in
 ### [Presentaties](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Presentaties)
 Iedere week worden er presentaties gehouden om de voortgang van het project te bespreken. De presentaties waar ik aan mee heb geholpen zal ik in een aparte map plaatsen ter vastlegging van mijn contributie. Tijdens de minor heb ik voor een paar mensen ingevallen. Verder heb ik in de volgende weken gepresenteerd.
 
-* Week 1 EM-Fields
-* Week 2 EM-Fields
-* Week 8 Urbinn
-* Week 9 Urbinn
-* Week 10 Urbinn
-* Calling Bullshit - John Deere & Big Data (naamloze presentatie.pptx)
-![alt text](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/bullshit%20opdracht/gold%20and%20wealth.png "Logo Title Text 1")
+* [Week 1 EM-Fields](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Presentaties/Sprint%201%20%5Bweek%201%5D%20(powerpoint%201).pptx)
+* [Week 2 EM-Fields](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Presentaties/Sprint%201%20%5Bweek%202%5D%20(powerpoint%202).pptx)
+* [Week 8 Urbinn](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Presentaties/Kopie%20van%20Week%208%20-%20Presentatie.pptx)
+* [Week 9 Urbinn](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Presentaties/Week%209%20-%20Presentatie.pptx)
+* [Week 10 Urbinn](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Presentaties/Week%2010%20-%20Presentatie.pptx)
+* [Calling Bullshit - John Deere & Big Data](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Presentaties/Naamloze%20presentatie.pptx)
+* [Blog week 10](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Presentaties/Blog%20week%2010.docx)
 
 ### [Eigen code/notebooks](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/bullshit%20opdracht)
 Zelf heb ik niet veel code uitgevoerd omdat dit niet mijn expertise is. Wel heb ik de notebooks met code opgenomen in mijn portfolio.
