@@ -108,14 +108,14 @@ In mijn portfolio heb ik de issues waar ik aan heb gewerkt opgenomen. Over deze 
 |114|Samen met Viradj plannen gemaakt voor de opnamens van Delft. Hierbij hebben we routes gemaakt en later is dit uitgevoerd.|Evaluatie Delft|
 |120|Met het RGB naar HSV hue experiment heb ik zelf code geschreven voor het omzetten van RGB afbeeldingen naar HSV hue. Deze afbeeldingen worden dan ook opgeslagen op de jupyter server. Ik vond dit lastig maar het lukte uiteindelijk wel.|Code|
 |130|Voor deze issue is aan mij opgedragen een stuk code opnieuw te scrijven om een pointcloud te maken.|Code pointcloud|
-|152|Ik heb in samenwerking de introductie gemaakt voor de paper.|Paper|
-|153|In de paper heb ik in samenwerking het hoofdstuk "related work" geschreven.|Paper|
-|154|Gewerkt aan het opzetten van het hoofdstuk "design" voor de paper.|Paper|
-|155|Bezig geweest met het hoofdstuk "experiment" te ontwikkelen in de paper.|Paper|
-|156|Meegeholpen met het hoofdstuk "Evaluatie" van de paper.|Paper|
-|157|Het hoofdstuk "Results" van de paper geschreven en gecontroleerd.|Paper|
-|158|Mede vorm gegeven aan de discussie van de paper.|Paper|
-|159|In samenspraak conclusies gevormd voor de paper.|Paper|
+|152|Ik heb in samenwerking de introductie gemaakt voor de paper.|[Paper](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Documenten/Kopie%20van%20landmark-filtering-techniques-for-semantic-mapping.docx)|
+|153|In de paper heb ik in samenwerking het hoofdstuk "related work" geschreven.|[Paper](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Documenten/Kopie%20van%20landmark-filtering-techniques-for-semantic-mapping.docx)|
+|154|Gewerkt aan het opzetten van het hoofdstuk "design" voor de paper.|[Paper](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Documenten/Kopie%20van%20landmark-filtering-techniques-for-semantic-mapping.docx)|
+|155|Bezig geweest met het hoofdstuk "experiment" te ontwikkelen in de paper.|[Paper](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Documenten/Kopie%20van%20landmark-filtering-techniques-for-semantic-mapping.docx)|
+|156|Meegeholpen met het hoofdstuk "Evaluatie" van de paper.|[Paper](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Documenten/Kopie%20van%20landmark-filtering-techniques-for-semantic-mapping.docx)|
+|157|Het hoofdstuk "Results" van de paper geschreven en gecontroleerd.|[Paper](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Documenten/Kopie%20van%20landmark-filtering-techniques-for-semantic-mapping.docx)|
+|158|Mede vorm gegeven aan de discussie van de paper.|[Paper](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Documenten/Kopie%20van%20landmark-filtering-techniques-for-semantic-mapping.docx)|
+|159|In samenspraak conclusies gevormd voor de paper.|[Paper](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Documenten/Kopie%20van%20landmark-filtering-techniques-for-semantic-mapping.docx)|
 
 ### [Bullshit opdracht](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/bullshit%20opdracht)
 Ik heb de opdrachten en illustraties, die ik heb gebruikt voor de bullshitopdrachten, opgenomen in mijn portfolio.
