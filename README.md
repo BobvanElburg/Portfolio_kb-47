@@ -73,6 +73,7 @@ Voor coursera heb ik de volgende hoofdstukken afgerond.
 * Week 2 Linear Regression with Multiple Variables
 * Week 3 Logistic Regression & Regularization
 * Week 6 Advice for Applying Machine Learning
+Tabel met Coursera afbeeldingen.
 |Afbeeldingen|
 |---|
 |[Afbeelding van overzicht 1](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Coursera/coursera%20progress%201.PNG)|
