@@ -33,6 +33,7 @@ Voor het genereren van beeldmateriaal was stereo beeld benodigd. Door het gebrui
 In samenwerking met groepsgenoten heb ik onderzoek uitgevoerd voor manieren om ons product te evalueren. Hier hebben we wat methodes gevonden, waarvan wij dachten, toepasbaar zijn.
 
 Een van deze methodes is het vergelijken van pointclouds. Een pointcloud is een map gemaakt uit punten die zijn geïdentificeerd en gevisualiseerd door een programma zoals ORB-Slam2. Deze pointcloud plaats je over de pointcloud dat de ground-truth dient te zijn en hier kijkt of er verschillen aanwezig zijn om de accuraatheid te meten. Dit heb ik samen met Isa uitgevoerd.
+![ORB-Slam2](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Plaatjes/ORBSlam2.png)
 
 Tussentijds heb ik de groep geholpen met kleine taken zoals het controleren van papers, documenten, het meedenken over oplossingen voor code.
 
