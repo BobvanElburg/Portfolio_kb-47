@@ -46,6 +46,9 @@ Samen met Nektarios, Kevin en Viradj heb ik meer dan 500 foto's gelabeld. Iedere
 
 
 ---------------------------------------------------------------------------------
+## Unieke bijdrage
+
+
 ## Algemene onderdelen
 ### [Datacamp](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Datacamp)
 Voor de minor is de vraag naar kennis over de codetaal Python. Het is lastig om hiervan de voortgang vast te leggen. Ik probeer zoveel mogelijk informatie vast te leggen om mijn voortgang te laten zien.
@@ -117,7 +120,6 @@ In mijn portfolio heb ik de issues waar ik aan heb gewerkt opgenomen. Over deze 
 ### [Bullshit opdracht](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/bullshit%20opdracht)
 Ik heb de opdrachten en illustraties, die ik heb gebruikt voor de bullshitopdrachten, opgenomen in mijn portfolio.
 
-## Unieke bijdrage
 ### [Documenten](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Documenten)
 Tijdens de minor KB-47 heb ik verschillende documenten opgesteld. Deze zal ik in een aparte map plaatsen om mijn contributie aan de groep vast te leggen.
 
