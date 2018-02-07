@@ -55,12 +55,16 @@ Uit deze methodes heb ik de keuze gemaakt om de pointcloud met de ground-thruth 
 Voor het vergelijken van de Pointsclouds maak ik gebruik van het programma Cloudcompare. Cloudcompare geeft de mogelijkheid om pointclouds in te laden en te vergelijken. ![cloudcompare](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Plaatjes/Cloudcompare.jpg)
 
 ## Hoe YOLO te trainen en Labelen van informatie
-Voor het detecteren van objecten maakt de groep gebruik van het programma YOLO. De YOLO software wordt gebruikt voor real-time object detection en classification. De ontwikkeling van Yolo is erg slecht gedocumenteerd en hierdoor was het lastig om de manier te vinden waarop traint. Hiervoor heb ik onderzoek moeten uitvoeren over de werking van YOLO. YOLO maakt gebruik van een convolutional network wat een onderdeel is van class/deep learning. 
+Voor het detecteren van objecten maakt de groep gebruik van het programma YOLO. De YOLO software wordt gebruikt voor real-time object detection en classification. De ontwikkeling van Yolo is erg slecht gedocumenteerd en hierdoor was het lastig om de manier te vinden waarop traint. Hiervoor heb ik onderzoek moeten uitvoeren over de werking van YOLO. YOLO maakt gebruik van een convolutional network wat gebruikt wordt voor class/deep learning. 
 ![YOLO2](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Plaatjes/YOLO2.png)
+De convolutional network wordt de afbeelding opgesplitst in behapbare delen. Hierbij wordt aan ieder vlak een gewicht gehangen dat meegenomen wordt in het pooling proces. Het pooling proces die de uitkomsten clustert en meegeeft aan een nieuwe convolutional layer. In deze processen word gekeken naar naastliggende vlakken die mogelijke relevantie hebben met elkaar. Dit proces van convolutional layer en pooling herhaald zich een vastgesteld aantal keer en komt met een resultaat waarin een zekerheid wordt gegeven over de herkenning van een object en welk object.
+
+Het trainen van YOLO was erg interessant om te zien en mee te maken. Echter kwamen we tot een probleem dat YOLO Om YOLO verder te trainen was meer traingingsdata benodigt. 
+
+Omdat Tiny-YOLO veel 'lichter' is ligt de verdere focus op Tiny-YOLO. Ook is uit onderzoek gebleken dat op vierkante afbeeldingen de detectie veel beter en sneller verloopt. re resultation hiervan zijn te zien in de mappen 110 & 010, waarbij afbeeldingen 1 t/m 4 vierkant overlappende afbeeldingen van links naar rechts zijn. deze zijn samengevoegd in een afbeelding te herkennen aan *_collage in het einde van de naam. De resultaten van alle tests zijn te vinden in de map testcases_yolo.
 
 ![bboxlabelingtool](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Plaatjes/bboxlabelingtool.jpg)
 
-De YOLO software is zeer slecht gedocumenteerd, uit veel papers blijkt echter wel dat YOLO een van de beste kandidaten is op het gebied van real-time object detection en classification. Na een korte orientatie legde ik de focus op 2 kandidaten: Tiny-YOLO && YOLO9000. 
 
 ## Algemene onderdelen
 ### [Datacamp](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Datacamp)
