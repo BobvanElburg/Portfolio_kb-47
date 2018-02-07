@@ -74,6 +74,7 @@ Voor coursera heb ik de volgende hoofdstukken afgerond.
 * Week 3 Logistic Regression & Regularization
 * Week 6 Advice for Applying Machine Learning
 |Afbeeldingen|
+|---|
 |[Afbeelding van overzicht 1](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Coursera/coursera%20progress%201.PNG)|
 |[Afbeelding van overzicht 2](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Coursera/coursera%20progress%202.PNG)|
 |[Afbeelding van overzicht 3](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Coursera/extra%20coursera%20foto.PNG)|
