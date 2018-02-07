@@ -105,7 +105,7 @@ In mijn portfolio heb ik de issues waar ik aan heb gewerkt opgenomen. Over deze 
 |86|Ik heb samen met groepsleden de trainingsdata van Kitti opnieuw gelabeld om zo nieuwe trainingsdata voor Yolo te maken. Hiermee hopen er het probleem op te lossen dat ons objectherkenningssysteem niet overfit door meer trainingsdata toe te voegen.|[B-Box Labeling Tool](https://github.com/urbinn/BBox-Label-Tool)|
 |87|Papers gezocht voor close reading sessie.|[Wetenschappelijke Papers](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Wetenschappelijke%20papers)|
 |104|Samen met Viradj opnamens gemaakt met de stereo camera voor trainingsdoeleinden. Deze zijn gemaakt met de B-Box Labeling Tool.|[B-Box Labeling Tool](https://github.com/urbinn/BBox-Label-Tool)|
-|114|Samen met Viradj plannen gemaakt voor de opnamens van Delft. Hierbij hebben we routes gemaakt en later is dit uitgevoerd.|Evaluatie Delft|
+|114|Samen met Viradj plannen gemaakt voor de opnamens van Delft. Hierbij hebben we routes gemaakt en later is dit uitgevoerd.|[Evaluatie Delft](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Documenten/Issue%20114_%20Plan%20maken%20openames%20Delft.docx)|
 |120|Met het RGB naar HSV hue experiment heb ik zelf code geschreven voor het omzetten van RGB afbeeldingen naar HSV hue. Deze afbeeldingen worden dan ook opgeslagen op de jupyter server. Ik vond dit lastig maar het lukte uiteindelijk wel.|Code|
 |130|Voor deze issue is aan mij opgedragen een stuk code opnieuw te scrijven om een pointcloud te maken.|Code pointcloud|
 |152|Ik heb in samenwerking de introductie gemaakt voor de paper.|[Paper](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Documenten/Kopie%20van%20landmark-filtering-techniques-for-semantic-mapping.docx)|
