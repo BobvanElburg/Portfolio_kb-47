@@ -46,8 +46,11 @@ Samen met Nektarios, Kevin en Viradj heb ik meer dan 500 foto's gelabeld. Iedere
 
 
 ---------------------------------------------------------------------------------
-## Unieke bijdrage
+## Unieke bijdrage/Uitgelichte onderwerpen
+### Evalueren van de Pointcloud
+Ik ben vooral bezig geweest met het maken van en helpen bij de evaluaties van soft- en hardware. Ik heb zelf een grote bijdrage geleverd aan het zoeken naar evaluatiemethodes die toepasbaar zijn op het project Urbinn. Voor het evalueren van de Pointcloud die is gemaakt door ORB-Slam2 hebben we gekeken naar verschillende mogelijkheden. Hiervoor heb ik een reeks aan verschiillende wetenschappelijke papers kritisch doorgelezen en opgenomen in documentatie.
 
+Uit deze methodes heb ik de keuze gemaakt om de pointcloud met de ground-thruth pointcloud te vergelijken. Door de punten uit de pointcloud met elkaar te vergelijken kan gekeken worden hoeveel afwijking aanwezig is. Ik heb nagedacht dat het lastig is voor het ORB-Slam2 algoritme om alle exacte punten te vinden. Daarom wordt er gebruik gemaakt van de Nearest Neighbours techniek om punten met de kortste afstand uit beide mappen met elkaar te vergelijken. 
 
 ## Algemene onderdelen
 ### [Datacamp](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Datacamp)
