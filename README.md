@@ -37,7 +37,7 @@ Een van deze methodes is het vergelijken van pointclouds. Een pointcloud is een 
 Tussentijds heb ik de groep geholpen met kleine taken zoals het controleren van papers, documenten, het meedenken over oplossingen voor code.
 
 Samen met Viradj heb ik geholpen met het maken van beeldmateriaal voor de groep. Voor het maken van dit beeldmateriaal hebben we een trolly gebruikt met mij erop terwijl ik een laptop en camera vathield. Hierdoor hebben we camera opnames gemaakt van twee kleine routes vlak bij de Haagse Hogeschool.
-<div style="width:50%">![opnames HHS](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Plaatjes/opnameshhs.jpg)</div>
+![opnames HHS](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Plaatjes/opnameshhs.jpg){ width=50% }
 
 Samen met Nektarios, Kevin en Viradj heb ik meer dan 500 foto's gelabeld. Iedere foto bevatte gemiddeld meer dan 15 verschillende objecten die gelabeld moesten worden zodat we het programma YOLO verder konden trainen om overfitting te voorkomen. Chris heeft hier later een testrun overheen laten lopen.
 ![Testrun KITTI](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Plaatjes/KITTIYolo.png)
