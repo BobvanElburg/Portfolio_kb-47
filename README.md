@@ -85,6 +85,10 @@ Voor het project vond ik Coursera wel een zware pil. Voor het Urbinn project is 
 
 ### [Code opdrachten](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/notebook%20tutorials)
 Gedurende de minor heb ik verschillende code opdrachten uitgevoerd waaronder de spark tutorial. Deze heb ik opgenomen in mijn portfolio.
+<br>[Spark deel 1](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Spark/assignment1.md)
+<br>[Spark deel 2](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Spark/assignment2.md)
+<br>[Exploratory_data_analysis plaatjes](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Exploratory_data_analysis)
+
 
 ### [Issues](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/issues)
 In mijn portfolio heb ik de issues waar ik aan heb gewerkt opgenomen. Over deze issues heb ik een uitleg gegeven wat ik heb uitgevoerd.
