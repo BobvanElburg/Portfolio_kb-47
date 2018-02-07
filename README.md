@@ -69,10 +69,10 @@ Tijdens de minor is geavanceerde wiskundige kennis nodig om machine learning te 
 
 Voor coursera heb ik de volgende hoofdstukken afgerond.
 
-* 1 Linear Regression with One variable
-* 2 Linear Regression with Multiple Variables
-* 3 Logistic Regression & Regularization
-* 6 Advice for Applying Machine Learning
+* Week 1 Linear Regression with One variable
+* Week 2 Linear Regression with Multiple Variables
+* Week 3 Logistic Regression & Regularization
+* Week 6 Advice for Applying Machine Learning
 
 Voor het project vond ik Coursera wel een zware pil. Voor het Urbinn project is het wel leuk als je een beetje begrijpt van machine learning. Echter vond ik de hele coursera course erg zwaar voor het blok en heel erg tijdrovent.
 
