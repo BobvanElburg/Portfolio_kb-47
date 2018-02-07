@@ -136,8 +136,8 @@ Iedere week worden er presentaties gehouden om de voortgang van het project te b
 
 ### [Eigen code/notebooks](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/bullshit%20opdracht)
 Zelf heb ik niet veel code uitgevoerd omdat dit niet mijn expertise is. Wel heb ik de notebooks met code opgenomen in mijn portfolio.
-<br>[HSV Experiment](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Eigen%20notebooks/HSV%2Bexperiment.ipynb)
-<br>[Plot Trajectory](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Eigen%20notebooks/plot_trajectory.ipynb)
+* [HSV Experiment](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Eigen%20notebooks/HSV%2Bexperiment.ipynb)
+* [Plot Trajectory](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Eigen%20notebooks/plot_trajectory.ipynb)
 
 ### Reflectie
 De minor kb-47 vond ik een erg interessante minorkeuze. De minor trok mijn aandacht op het gebied van onderzoek en samenwerking met anderen op verschillende expertisegebieden. 
