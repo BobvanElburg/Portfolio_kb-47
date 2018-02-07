@@ -52,15 +52,15 @@ Voor de minor is de vraag naar kennis over de codetaal Python. Het is lastig om 
 
 Voor datacamp heb ik de volgende courses gemaakt en afgerond.
 
-* Intro to Python for Data Science
-* Intermediate Python for Data Science
-* Python Data Science Toolbox (Part 1)
-* Pandas foundation
-* Python Data Science Toolbox (Part 2)
-* Introduction to data visualization with Python
-* Cleaning Data
-* Statistical Thinking in Python (part 1)
-* Supervised Learning with scikit-learn
+* [Intro to Python for Data Science](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Datacamp/Intro%20to%20python%20for%20Data%20Science.png)
+* [Intermediate Python for Data Science](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Datacamp/Intermediate%20Python%20for%20Data%20Science.png)
+* [Python Data Science Toolbox (Part 1)](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Datacamp/Pyhon%20Data%20Science%20Toolbox%20(Part1).png)
+* [Pandas foundation](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Datacamp/Pandas%20Foundation.png)
+* [Python Data Science Toolbox (Part 2)](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Datacamp/Python%20Data%20Science%20Toolbox%20(Part2).png)
+* [Introduction to data visualization with Python](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Datacamp/Introdcution%20to%20Data%20Visualization%20with%20Python.png)
+* [Cleaning Data](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Datacamp/Cleaning%20Data%20in%20Python.png)
+* [Statistical Thinking in Python (part 1)](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Datacamp/Statistical%20thinking%20in%20Python(Part1).png)
+* [Supervised Learning with scikit-learn](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Datacamp/Supervised%20learning%20with%20scikit-learn.png)
 
 Ik vond de Python courses erg leuk maar wel tijdrovend. Vooral omdat het project zoveel tijd vereist blijft er weinig tijd over om zelf opdrachten uit te voeren.
 
