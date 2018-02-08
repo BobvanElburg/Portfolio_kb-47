@@ -67,7 +67,7 @@ Het trainen van YOLO was erg interessant om te zien en mee te maken. Echter kwam
 
 Het maken van nieuwe trainingsdata heeft twee weken geduurd om alle objecten in meer dan 500 foto's te labellen. Dit heeft later wel geholpen met het beter kunnen herkennen van verkeersborden, ramen, lantaarnpalen, paaltjes, auto's, voetgangers, etc.
 ![bboxlabelingtool](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Plaatjes/bboxlabelingtool.jpg)
-
+<br>De tool kan gevonden worden in de [B-Box Labeling Tool repository](https://github.com/urbinn/BBox-Label-Tool).
 
 ## Algemene onderdelen
 ### [Datacamp](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Datacamp)
