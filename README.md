@@ -10,6 +10,8 @@ De minor kb-74 gaat over "Applied Data Science". In deze minor is de nadruk gele
 Het project Urbinn focust zich op het onderdeel "Autonoom rijden" met nadruk op het maken van een "Semantische kaart". Om nog specifieker te zijn moest er een semantische kaart worden gemaakt van de omgeving Delft. Deze kaart dient om de omgeving van de route vast te leggen. Deze kaart van de omgeving zal dan later weer gebruikt worden door het voertuig van Urbinn om te navigeren door het stedelijke gebied.
 
 Het volledige project kan gevonden worden op de website: [www.urbinn.nl](http://urbinn.nl/)
+Iedere week hebben we een blog bijgehouden waarin we de veranderingen en voorgang vastleggen.
+De Blog van ons project kan op de volgende website bekeken worden: [Urbinn Blog](https://kb74.github.io/urbinn/)
 
 
 ## Mijn portfolio
@@ -45,6 +47,9 @@ Samen met Viradj heb ik geholpen met het maken van beeldmateriaal voor de groep.
 
 Samen met Nektarios, Kevin en Viradj heb ik meer dan 500 foto's gelabeld. Iedere foto bevatte gemiddeld meer dan 15 verschillende objecten die gelabeld moesten worden zodat we het programma YOLO verder konden trainen om overfitting te voorkomen. Chris heeft hier later een testrun overheen laten lopen.
 ![Testrun KITTI](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Plaatjes/KITTIYolo.png)
+<br>Verder hebben ik en Viradj plannen gemaakt om opnamens te maken voor de omgeving van Delft. Hiervoor hebben we routes uitgestippeld die volgens Googlemaps met de auto te rijden zijn.
+![routes delft](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Plaatjes/routesdelft.png)
+<br>Na het maken van de opnames heeft Chris hier een testrun gedaan met YOLO. Hierbij was al snel op te merken dat de resultaten erg tegenvielen. Helaas kunnen we met de hoeveelheid informatie niet concluderen dat het weer, helderheid of positie van de camera invloed had op de resultaten. Wel is op te merken dat de KITTI dataset heldere beelden bevat 
 
 
 
