@@ -165,7 +165,7 @@ Zelf heb ik niet veel code uitgevoerd omdat dit niet mijn expertise is. Wel heb 
 * [HSV Experiment](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Eigen%20notebooks/HSV%2Bexperiment.ipynb)
 * [Plot Trajectory](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Eigen%20notebooks/plot_trajectory.ipynb)
 
-### Reflectie
+### Kleine reflectie week 1 t/m 6
 De minor kb-47 vond ik een erg interessante minorkeuze. De minor trok mijn aandacht op het gebied van onderzoek en samenwerking met anderen op verschillende expertisegebieden. 
 
 
