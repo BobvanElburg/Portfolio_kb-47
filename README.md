@@ -49,9 +49,7 @@ Samen met Nektarios, Kevin en Viradj heb ik meer dan 500 foto's gelabeld. Iedere
 ![Testrun KITTI](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Plaatjes/KITTIYolo.png)
 <br>Verder hebben ik en Viradj plannen gemaakt om opnamens te maken voor de omgeving van Delft. Hiervoor hebben we routes uitgestippeld die volgens Googlemaps met de auto te rijden zijn.
 ![routes delft](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Plaatjes/routesdelft.png)
-<br>Na het maken van de opnames heeft Chris hier een testrun gedaan met YOLO. Hierbij was al snel op te merken dat de resultaten erg tegenvielen. Helaas kunnen we met de hoeveelheid informatie niet concluderen dat het weer, helderheid of positie van de camera invloed had op de resultaten. Wel is op te merken dat de KITTI dataset heldere beelden bevat 
-
-
+<br>Na het maken van de opnames heeft Chris hier een testrun gedaan met YOLO. Hierbij was al snel op te merken dat de resultaten erg tegenvielen. Helaas kunnen we met de hoeveelheid informatie niet concluderen dat het weer, helderheid of positie van de camera invloed had op de resultaten. Wel is op te merken dat de KITTI dataset heldere beelden bevat tegenover de Delft beelden die in de winter gemaakt zijn.
 
 ---------------------------------------------------------------------------------
 ## Unieke bijdrage/Uitgelichte onderwerpen
