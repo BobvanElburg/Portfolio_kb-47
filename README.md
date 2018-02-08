@@ -59,10 +59,9 @@ Voor het detecteren van objecten maakt de groep gebruik van het programma YOLO. 
 ![YOLO2](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Plaatjes/YOLO2.png)
 De convolutional network wordt de afbeelding opgesplitst in behapbare delen. Hierbij wordt aan ieder vlak een gewicht gehangen dat meegenomen wordt in het pooling proces. Het pooling proces die de uitkomsten clustert en meegeeft aan een nieuwe convolutional layer. In deze processen word gekeken naar naastliggende vlakken die mogelijke relevantie hebben met elkaar. Dit proces van convolutional layer en pooling herhaald zich een vastgesteld aantal keer en komt met een resultaat waarin een zekerheid wordt gegeven over de herkenning van een object en welk object.
 
-Het trainen van YOLO was erg interessant om te zien en mee te maken. Echter kwamen we tot een probleem dat YOLO Om YOLO verder te trainen was meer traingingsdata benodigt. 
+Het trainen van YOLO was erg interessant om te zien en mee te maken. Echter kwamen we tot een probleem dat YOLO Om YOLO verder te trainen was meer traingingsdata benodigt. Meer trainingsdata helpt tevens ook tegen overfitten, door meer trainingsdata te hebben dan features.
 
-Omdat Tiny-YOLO veel 'lichter' is ligt de verdere focus op Tiny-YOLO. Ook is uit onderzoek gebleken dat op vierkante afbeeldingen de detectie veel beter en sneller verloopt. re resultation hiervan zijn te zien in de mappen 110 & 010, waarbij afbeeldingen 1 t/m 4 vierkant overlappende afbeeldingen van links naar rechts zijn. deze zijn samengevoegd in een afbeelding te herkennen aan *_collage in het einde van de naam. De resultaten van alle tests zijn te vinden in de map testcases_yolo.
-
+Het maken van nieuwe trainingsdata heeft twee weken geduurd om alle objecten in meer dan 500 foto's te labellen. Dit heeft later wel geholpen met het beter kunnen herkennen van verkeersborden, ramen, lantaarnpalen, paaltjes, auto's, voetgangers, etc.
 ![bboxlabelingtool](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Plaatjes/bboxlabelingtool.jpg)
 
 
