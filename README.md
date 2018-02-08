@@ -9,6 +9,9 @@ De minor kb-74 gaat over "Applied Data Science". In deze minor is de nadruk gele
 
 Het project Urbinn focust zich op het onderdeel "Autonoom rijden" met nadruk op het maken van een "Semantische kaart". Om nog specifieker te zijn moest er een semantische kaart worden gemaakt van de omgeving Delft. Deze kaart dient om de omgeving van de route vast te leggen. Deze kaart van de omgeving zal dan later weer gebruikt worden door het voertuig van Urbinn om te navigeren door het stedelijke gebied.
 
+Het volledige project kan gevonden worden op de website: [www.urbinn.nl](http://urbinn.nl/)
+
+
 ## Mijn portfolio
 In mijn portfolio zijn de volgende onderdelen te vinden:
 
