@@ -54,7 +54,10 @@ Uit deze methodes heb ik de keuze gemaakt om de pointcloud met de ground-thruth 
 
 Voor het vergelijken van de Pointsclouds maak ik gebruik van het programma Cloudcompare. Cloudcompare geeft de mogelijkheid om pointclouds in te laden en te vergelijken. ![cloudcompare](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Plaatjes/Cloudcompare.jpg)
 
-## Hoe YOLO te trainen en Labelen van informatie
+Naast de pointcloud tegen pointcloud vergelijking hebben andere projectleden de trajectory evaluatie uitgevoerd. Deze evaluatie is uitgevoerd door de trajectory (het pad wat is afgelegd) met de ground-truth trajectory te vergelijken.
+![trajectory evaluation]
+
+## Hoe YOLO te trainen en Labelen van objecten
 Voor het detecteren van objecten maakt de groep gebruik van het programma YOLO. De YOLO software wordt gebruikt voor real-time object detection en classification. De ontwikkeling van Yolo is erg slecht gedocumenteerd en hierdoor was het lastig om de manier te vinden waarop traint. Hiervoor heb ik onderzoek moeten uitvoeren over de werking van YOLO. YOLO maakt gebruik van een convolutional network wat gebruikt wordt voor class/deep learning. 
 ![YOLO2](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Plaatjes/YOLO2.png)
 De convolutional network wordt de afbeelding opgesplitst in behapbare delen. Hierbij wordt aan ieder vlak een gewicht gehangen dat meegenomen wordt in het pooling proces. Het pooling proces die de uitkomsten clustert en meegeeft aan een nieuwe convolutional layer. In deze processen word gekeken naar naastliggende vlakken die mogelijke relevantie hebben met elkaar. Dit proces van convolutional layer en pooling herhaald zich een vastgesteld aantal keer en komt met een resultaat waarin een zekerheid wordt gegeven over de herkenning van een object en welk object.
@@ -138,10 +141,6 @@ Ik heb de opdrachten en illustraties, die ik heb gebruikt voor de bullshitopdrac
 * [Powerpoint: Zijn katten vloeibaar](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/bullshit%20opdracht/Bullshit%20extra%20presentatie%20-%20zijn%20katten%20vloeibaar.pptx)
 * [Hoofdopdracht Calling Bullshit](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/bullshit%20opdracht/bullshit%20opdracht%20Bob%20van%20Elburg.docx)
 * [Calling Bullshit - John Deere & Big Data](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Presentaties/Naamloze%20presentatie.pptx)
-
-### [Documenten](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Documenten)
-Tijdens de minor KB-47 heb ik verschillende documenten opgesteld. Deze zal ik in een aparte map plaatsen om mijn contributie aan de groep vast te leggen.
-* [Map met alle documenten](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Documenten)
 
 ### [Presentaties](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Presentaties)
 Iedere week worden er presentaties gehouden om de voortgang van het project te bespreken. De presentaties waar ik aan mee heb geholpen zal ik in een aparte map plaatsen ter vastlegging van mijn contributie. Tijdens de minor heb ik voor een paar mensen ingevallen. Verder heb ik in de volgende weken gepresenteerd.
