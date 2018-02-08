@@ -56,6 +56,7 @@ Voor het vergelijken van de Pointsclouds maak ik gebruik van het programma Cloud
 
 Naast de pointcloud tegen pointcloud vergelijking hebben andere projectleden de trajectory evaluatie uitgevoerd. Deze evaluatie is uitgevoerd door de trajectory (het pad wat is afgelegd) met de ground-truth trajectory te vergelijken.
 ![trajectory evaluation](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Plaatjes/figure%203%20evaluation.PNG)
+In de bovenstaande afbeelding is te zien dat de trajectory afwijkt met de ground truth.
 
 ## Hoe YOLO te trainen en Labelen van objecten
 Voor het detecteren van objecten maakt de groep gebruik van het programma YOLO. De YOLO software wordt gebruikt voor real-time object detection en classification. De ontwikkeling van Yolo is erg slecht gedocumenteerd en hierdoor was het lastig om de manier te vinden waarop traint. Hiervoor heb ik onderzoek moeten uitvoeren over de werking van YOLO. YOLO maakt gebruik van een convolutional network wat gebruikt wordt voor class/deep learning. 
