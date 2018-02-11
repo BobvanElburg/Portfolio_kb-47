@@ -35,12 +35,12 @@ Naar aanleiding van mijn achtergrond heb ik mij vooral gericht op het maken van 
 
 Voor het genereren van beeldmateriaal was stereo beeld nodig. Door het gebruik van stereobeelden was het mogelijk om niet alleen beter punten te herkennen maar ook om beter diepte te bepalen. De informatie die opgehaald moest worden was ook deels de "Ground-truth". De ground-truth is erg belangrijk voor het project om de progressie te evalueren en om te kijken hoe goed het product (semantische map) is ten opzichte van de ground-truth.
 
-In samenwerking met mijn groepsgenoten heb ik onderzoek uitgevoerd naar manieren om ons product te evalueren. Hier hebben we wat methodes gevonden, waarvan wij dachten, toepasbaar zijn.
-
-Een van deze methodes is het vergelijken van pointclouds. Een pointcloud is een map gemaakt uit punten die zijn geïdentificeerd en gevisualiseerd door een programma zoals ORB-Slam2. Deze pointcloud plaats je over de pointcloud dat de ground-truth dient te zijn en hier kijkt of er verschillen aanwezig zijn om de accuraatheid te meten. Dit heb ik samen met Isa uitgevoerd.
+In samenwerking met mijn groepsgenoten heb ik onderzoek uitgevoerd naar manieren om ons product te kunnen evalueren. Ik heb een aantal methodes gevonden die naar mijn idee geschikt waren om ons product, de semantische map, te evalueren. 
+ 
+Een van deze methodes is het vergelijken van pointclouds. Een pointcloud is een map gemaakt uit punten die zijn geïdentificeerd en gevisualiseerd door een algoritme zoals ORB-Slam2. Deze pointcloud plaats je over de ground-truth en hier wordt gekeken of er verschillen aanwezig zijn. Dit om de accuraatheid te meten. Deze evaluatiemethode heb ik samen met Isa uitgevoerd.
 ![ORB-Slam2](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Plaatjes/ORBSlam2.png)
 
-Samen met Viradj heb ik geholpen met het maken van beeldmateriaal voor de groep. Voor het maken van dit beeldmateriaal hebben we een trolly gebruikt met mij erop terwijl ik een laptop en camera vathield. Hierdoor hebben we camera opnames gemaakt van twee kleine routes vlak bij de Haagse Hogeschool.
+Samen met Viradj heb ik geholpen met het maken van beeldmateriaal voor de groep. Voor het maken van dit beeldmateriaal hebben we gebruik gemaakt van een trolly. Ik heb op deze trolly gezeten terwijl ik een laptop en camera vathield. Dit met de reden om het beeld zo stabiel als mogelijk te houden. Op deze wijze hebben we cameraopnames gemaakt van twee kleine routes vlak bij de Haagse Hogeschool.
 <br>[Klik hier voor een afbeelding hoe de opnames HHS werden uitgevoerd](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Plaatjes/opnameshhs.jpg)
 
 Samen met Nektarios, Kevin en Viradj heb ik meer dan 500 foto's gelabeld. Iedere foto bevatte gemiddeld meer dan 15 verschillende objecten die gelabeld moesten worden zodat we het programma YOLO verder konden trainen om overfitting te voorkomen. Chris heeft hier later een testrun overheen laten lopen.
