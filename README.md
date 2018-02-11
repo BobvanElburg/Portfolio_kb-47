@@ -1,16 +1,16 @@
 # Portfolio_kb-74
-Welkom op mijn Portfolio. Deze portfolio heb ik gemaakt gedurende het blok KB-74. In de portfolio heb ik de door mij uitgevoerde taken opgenomen.
+Welkom op mijn Portfolio. Deze portfolio heb ik gemaakt gedurende het blok KB-74. In de portfolio heb ik de door mij uitgevoerde taken opgenomen en beschreven.
 
-De initiële afspraak die is gemaakt met docenten was dat iedere portfolio om de 4 weken feedback zou ontvangen. Echter is in week 15/16 feedback gegeven die geen concrete informatie bevatte naast de bekende portfolio criteria. Het hoofddoel van de portfolio is ook niet om te tonen dat ik alles weet van Machine Learning. Hiervoor hebben we een schriftelijke toets gemaakt die ik met een voldoende heb afgesloten. De Portfolio dient wel te laten zien dat ik heb bijgedragen aan het project en ook actief bezig ben geweest met Machine Learning zijnde in het project of door de Coursera opdrachten.
+De initiële afspraak die is gemaakt met de betrokken docenten was dat over ieder portfolio om de vier weken feedback zou worden gegeven. In de praktijk is dit helaas niet gerealiseerd.  Het hoofddoel van de portfolio is niet om aan te tonen dat ik alles weet van Machine Learning. Hiervoor hebben we een schriftelijke toets gemaakt die ik met een voldoende heb afgesloten. De Portfolio dient te laten zien dat ik heb bijgedragen aan het project en actief bezig ben geweest met Machine Learning en door de Coursera opdrachten.
 
 --------------------------------------------------------------------------------
 ## KB-74
-De minor kb-74 gaat over "Applied Data Science". In deze minor is de nadruk gelegd op het onderwerp "Machine learning". In deze minor hadden we keuze uit 4 projecten. Aan de start van de minor heb ik gewerkt in de groep EM-Fields waarin ik onderzoek heb uitgevoerd over elektromagnetische straling. Echter werd deze groep opgeheven aan het eind van week 3 vanwege een te grote druk bij de begeleidend docent. Ik heb in week 4 een nieuw projectgroep moeten kiezen om mijn minor voort te zetten. In die tijd heb ik gekozen voor het project Urbinn.
+De minor kb-74 gaat over "Applied Data Science". In deze minor is de nadruk gelegd op het onderwerp "Machine learning". In deze minor hadden we keuze uit vier projecten. Aan de start van de minor heb ik gewerkt in de groep EM-Fields waarin ik onderzoek heb uitgevoerd over elektromagnetische straling. Echter werd deze groep opgeheven aan het eind van week drie vanwege een te grote druk bij de begeleidend docent. Ik heb in week vier een nieuwe projectgroep moeten kiezen om mijn minor voort te zetten. Mijn keuze is toen gevallen op het project Urbinn.
 
-Het project Urbinn focust zich op het onderdeel "Autonoom rijden" met nadruk op het maken van een "Semantische kaart". Om nog specifieker te zijn moest er een semantische kaart worden gemaakt van de omgeving Delft. Deze kaart dient om de omgeving van de route vast te leggen. Deze kaart van de omgeving zal dan later weer gebruikt worden door het voertuig van Urbinn om te navigeren door het stedelijke gebied.
+Het project Urbinn focust zich op het onderdeel "Autonoom rijden" met nadruk op het maken van een "Semantische kaart". Om nog specifieker te zijn moest er een semantische kaart worden gemaakt van de omgeving van de stad Delft. Deze kaart dient om de omgeving van de route vast te leggen. Deze kaart van de omgeving zal in een later stadium weer gebruikt worden door het voertuig van Urbinn om te navigeren door het stedelijke gebied.
 
 Het volledige project kan gevonden worden op de website: [www.urbinn.nl](http://urbinn.nl/)
-<br>Iedere week hebben we een blog bijgehouden waarin we de veranderingen en voorgang vastleggen.
+<br>Iedere week hebben we een blog bijgehouden waarin we de veranderingen en voorgang vastlegden.
 <br>De Blog van ons project kan op de volgende website bekeken worden: [Urbinn Blog](https://kb74.github.io/urbinn/)
 
 
@@ -24,18 +24,18 @@ In mijn portfolio zijn de volgende onderdelen te vinden:
  - Uitgelichte onderwerpen
  - Workshop opdrachten
  
-In week vier van het blok heb ik mij samengevoegd in de groep Urbinn. In die tijd was er al vooronderzoek uitgevoerd over de basis van het project en welke richting deze op ging. Ik heb het vooronderzoek doorgelezen zodat ik de stof begreep en met de rest verder kon werken.
+In week vier van het blok heb ik mij, zoals hierboven vermeld, samengevoegd met de groep Urbinn. In die tijd was er al vooronderzoek uitgevoerd over de basis van het project en welke richting deze op ging. Ik heb het vooronderzoek doorgelezen zodat ik de stof begreep en met de rest verder kon werken.
 
-Het werdt duidelijk voor me dat het maken van een semantische map meerdere onderdelen nodig zijn. een paar van deze onderdelen zijn:
+Het werd mij duidelijk dat voor het maken van een semantische map meerdere onderdelen nodig zijn. Een paar van deze onderdelen zijn:
  - Beeldmateriaal
  - Geclassificeerde objecten
  - Ruimtelijke kaart
 
-Naar aanleiding van mijn achtergrond heb ik mij meer gericht op het maken van plannen voor het vergaren van informatie en het uitvoeren van evaluaties.
+Naar aanleiding van mijn achtergrond heb ik mij vooral gericht op het maken van plannen voor het vergaren van informatie en het uitvoeren van evaluaties.
 
-Voor het genereren van beeldmateriaal was stereo beeld benodigd. Door het gebruik van stereobeelden was het mogelijk om niet alleen beter punten te herkennen maar ook om beter diepte te bepalen. De informatie die opgehaald moest worden was ook deels de "Ground-truth". De ground truth is erg belangrijk voor het project om de progressie te evalueren en te kijken hoe goed het product (semantische map) is tegenover de ground-truth.
+Voor het genereren van beeldmateriaal was stereo beeld nodig. Door het gebruik van stereobeelden was het mogelijk om niet alleen beter punten te herkennen maar ook om beter diepte te bepalen. De informatie die opgehaald moest worden was ook deels de "Ground-truth". De ground-truth is erg belangrijk voor het project om de progressie te evalueren en om te kijken hoe goed het product (semantische map) is ten opzichte van de ground-truth.
 
-In samenwerking met groepsgenoten heb ik onderzoek uitgevoerd voor manieren om ons product te evalueren. Hier hebben we wat methodes gevonden, waarvan wij dachten, toepasbaar zijn.
+In samenwerking met mijn groepsgenoten heb ik onderzoek uitgevoerd naar manieren om ons product te evalueren. Hier hebben we wat methodes gevonden, waarvan wij dachten, toepasbaar zijn.
 
 Een van deze methodes is het vergelijken van pointclouds. Een pointcloud is een map gemaakt uit punten die zijn geïdentificeerd en gevisualiseerd door een programma zoals ORB-Slam2. Deze pointcloud plaats je over de pointcloud dat de ground-truth dient te zijn en hier kijkt of er verschillen aanwezig zijn om de accuraatheid te meten. Dit heb ik samen met Isa uitgevoerd.
 ![ORB-Slam2](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Plaatjes/ORBSlam2.png)
