@@ -146,8 +146,8 @@ In mijn portfolio heb ik de issues waar ik aan heb gewerkt opgenomen. Over deze 
 |158|Mede vorm gegeven aan de discussie van de paper.|[Paper](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Documenten/Kopie%20van%20landmark-filtering-techniques-for-semantic-mapping.docx)|
 |159|In samenspraak conclusies gevormd voor de paper.|[Paper](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Documenten/Kopie%20van%20landmark-filtering-techniques-for-semantic-mapping.docx)|
 
-### [Bullshit opdracht](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/bullshit%20opdracht)
-Ik heb de opdrachten en illustraties, die ik heb gebruikt voor de bullshitopdrachten, opgenomen in mijn portfolio.
+### ["Bullshit in Data Science" opdracht](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/bullshit%20opdracht)
+Ik heb de opdrachten en illustraties, die ik heb gebruikt voor de bullshitopdrachten, opgenomen in mijn portfolio. Zelf vond ik de "Bullshit in Data Science" lessen erg leuk maar iets te laat geplaatst in de minor. Deze lessen zouden naar mijn mening beter geplaatst worden in week 2 t/m 5 omdat daar alle groepen met het onderzoeksproces bezig waren.
 * [Powerpoint: Zijn katten vloeibaar](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/bullshit%20opdracht/Bullshit%20extra%20presentatie%20-%20zijn%20katten%20vloeibaar.pptx)
 * [Hoofdopdracht Calling Bullshit](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/bullshit%20opdracht/bullshit%20opdracht%20Bob%20van%20Elburg.docx)
 * [Calling Bullshit - John Deere & Big Data](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Presentaties/Naamloze%20presentatie.pptx)
@@ -170,7 +170,7 @@ Codes die ik geschreven heb zijn te vinden in de volgende links.
 * [Plot Trajectory](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Eigen%20notebooks/plot_trajectory.ipynb)
 <br>In de plot trajectory heb ik code geschreven om de "landmarks" van ORB-Slam2 in een 3D grafiek te verwerken.
 
-### Kleine reflectie week 1 t/m 6
+### (Extra toevoeging) Reflectie week 1 t/m 6
 De minor kb-47 vond ik een erg interessante minorkeuze. De minor trok mijn aandacht op het gebied van onderzoek en samenwerking met anderen op verschillende expertisegebieden. 
 
 
