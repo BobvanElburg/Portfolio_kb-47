@@ -148,8 +148,11 @@ In mijn portfolio heb ik de issues waar ik aan heb gewerkt opgenomen. Over deze 
 
 ### ["Bullshit in Data Science" opdracht](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/bullshit%20opdracht)
 Ik heb de opdrachten en illustraties, die ik heb gebruikt voor de bullshitopdrachten, opgenomen in mijn portfolio. Zelf vond ik de "Bullshit in Data Science" lessen erg leuk maar iets te laat geplaatst in de minor. Deze lessen zouden naar mijn mening beter geplaatst worden in week 2 t/m 5 omdat daar alle groepen met het onderzoeksproces bezig waren.
+
 * [Powerpoint: Zijn katten vloeibaar](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/bullshit%20opdracht/Bullshit%20extra%20presentatie%20-%20zijn%20katten%20vloeibaar.pptx)
+<br>Voor mijn powerpoint opdracht heb informatie uit de paper ["On the rheology of cats"]([relevante evaluatiemethodes](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Wetenschappelijke%20papers/Evaluatie%20TUM%20%26%20ORB%20SLAM2.docx)) door M.A. Fardin. Dit was erg leuk om te lezen. 
 * [Hoofdopdracht Calling Bullshit](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/bullshit%20opdracht/bullshit%20opdracht%20Bob%20van%20Elburg.docx)
+<br>In de hoofdopdracht van "Bullshit in Data Science" heb ik naar "Bullshit informatie" gezocht. "Bullshit informatie" is informatie die niet klopt. Voorbeelden hiervan zijn grafieken waarvan twee verschillende waardes gelijk worden getrokken op visueel aspect ([Voorbeeldgrafiek](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/bullshit%20opdracht/Calling%20bullshit%20resources/autism_organic_graph.png)) of tweets ([tweet van trump](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/bullshit%20opdracht/Calling%20bullshit%20resources/trump%20tweet.PNG)) die uitspraken maken zonder daadwerkelijke onderbouwing.
 * [Calling Bullshit - John Deere & Big Data](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Presentaties/Naamloze%20presentatie.pptx)
 
 ### [Presentaties](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/Presentaties)
