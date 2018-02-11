@@ -108,7 +108,10 @@ Coursera afbeeldingen.
 * [Afbeelding van overzicht 2](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Coursera/coursera%20progress%202.PNG)
 * [Afbeelding van overzicht 3](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Coursera/extra%20coursera%20foto.PNG)
 
-Voor het project vond ik Coursera wel een zware pil. Voor het Urbinn project is het wel leuk als je een beetje begrijpt van machine learning. Echter vond ik de hele coursera course erg zwaar voor het blok en heel erg tijdrovent.
+Voor het project vond ik Coursera wel een zware pil. Voor het Urbinn project is de kennis over machine learning wel benodigd. Van de resultaten van de programming assignments heb ik afbeeldingen gemaakt.
+* [Logistic Regression](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Coursera/program%20assignment%20logistic%20regression.PNG)
+* [Linear Regression](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Coursera/programming%20assignment%20Linear%20Regression.PNG)
+* [Regularized Linear Regression en Bias/Variance](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Coursera/programming%20assignment%20regularized%20linear%20regression%20and%20bias%20variance.PNG)
 
 ### [Code opdrachten](https://github.com/BobvanElburg/Portfolio_kb-47/tree/master/notebook%20tutorials)
 Gedurende de minor heb ik verschillende code opdrachten uitgevoerd waaronder de spark tutorial. Deze heb ik opgenomen in mijn portfolio.
