@@ -1,5 +1,5 @@
 # Portfolio_kb-74
-Welkom op mijn Portfolio. Deze portfolio heb ik gemaakt gedurende het blok KB-74. In de portfolio heb ik mijn uitgevoerde taken opgenomen.
+Welkom op mijn Portfolio. Deze portfolio heb ik gemaakt gedurende het blok KB-74. In de portfolio heb ik de door mij uitgevoerde taken opgenomen.
 
 De initiële afspraak die is gemaakt met docenten was dat iedere portfolio om de 4 weken feedback zou ontvangen. Echter is in week 15/16 feedback gegeven die geen concrete informatie bevatte naast de bekende portfolio criteria. Het hoofddoel van de portfolio is ook niet om te tonen dat ik alles weet van Machine Learning. Hiervoor hebben we een schriftelijke toets gemaakt die ik met een voldoende heb afgesloten. De Portfolio dient wel te laten zien dat ik heb bijgedragen aan het project en ook actief bezig ben geweest met Machine Learning zijnde in het project of door de Coursera opdrachten.
 
