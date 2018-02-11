@@ -45,20 +45,20 @@ Samen met Viradj heb ik geholpen met het maken van beeldmateriaal voor de groep.
 
 Samen met Nektarios, Kevin en Viradj heb ik meer dan 500 foto's gelabeld. Iedere foto bevatte gemiddeld meer dan 15 verschillende objecten die gelabeld moesten worden zodat we het programma YOLO verder konden trainen om overfitting te voorkomen. Chris heeft hier later een testrun overheen laten lopen.
 ![Testrun KITTI](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Plaatjes/KITTIYolo.png)
-<br>Verder hebben ik en Viradj plannen gemaakt om opnames te maken voor de omgeving van Delft. Hiervoor hebben we routes uitgestippeld die volgens Googlemaps met de auto te rijden zijn.
+<br>Verder hebben Viradj en ik een plan besproken en uitgewerkt om opnames te maken voor de omgeving van Delft. Hiervoor hebben we routes uitgestippeld die volgens Googlemaps met de auto te rijden zijn.
 ![routes delft](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Plaatjes/routesdelft.png)
-<br>Na het maken van de opnames heeft Chris hier een testrun gedaan met YOLO. Hierbij was al snel op te merken dat de resultaten erg tegenvielen. Helaas kunnen we met de hoeveelheid informatie niet concluderen dat het weer, helderheid of positie van de camera invloed had op de resultaten. Wel is op te merken dat de KITTI dataset heldere beelden bevat tegenover de Delft beelden die in de winter gemaakt zijn.
+<br>Na het maken van de opnames heeft Chris een testrun uitgevoerd met YOLO. Hierbij merkten we al snel op dat de dat de resultaten erg tegenvielen. Helaas kunnen we met de hoeveelheid informatie niet concluderen dat het weer, helderheid of positie van de camera invloed had op de resultaten. Wel is op te merken dat de KITTI dataset meer heldere beelden bevatte dan de beelden van Delft die in de winter gemaakt zijn. Mogelijk kan dat een oorzaak zijn.
 
 ---------------------------------------------------------------------------------
 ## Unieke bijdrage/Uitgelichte onderwerpen
 ### Evalueren van de Pointcloud
-Ik heb een unieke bijdrage geleverd bij het zoeken, maken en uitvoeren van evaluatiemethodes die toepasbaar zijn op het project Urbinn. Voor het evalueren van de Pointcloud die is gemaakt door ORB-Slam2 heb ik gekeken naar verschillende evaluatiemogelijkheden. Hiervoor heb ik een reeks aan verschillende wetenschappelijke papers kritisch doorgelezen en opgenomen in documentatie.
+Ik heb een unieke bijdrage geleverd bij het zoeken naar en het maken en uitvoeren van evaluatiemethodes die toepasbaar zijn op het project Urbinn. Voor het evalueren van de Pointcloud dat is gemaakt door ORB-Slam2 heb ik gekeken naar verschillende evaluatiemogelijkheden. Hiervoor heb ik een reeks aan verschillende wetenschappelijke papers kritisch doorgelezen en opgenomen in documentatie.
 
-Uit deze evaluatiemethodes heb ik de keuze gemaakt om de pointcloud met de ground-thruth pointcloud te vergelijken. Door de punten uit de pointcloud met elkaar te vergelijken kan gekeken worden hoeveel afwijking aanwezig is. Naderhand heb ik mij beseft dat het lastig is voor het ORB-Slam2 algoritme om alle exacte punten te vinden die in de ground-truth aanwezig zijn. Daarom wordt er gebruik gemaakt van de Nearest Neighbours techniek om punten met de kortste afstand uit beide mappen met elkaar te vergelijken.
+Uit deze evaluatiemethodes heb ik de keuze gemaakt om de pointcloud met de ground-thruth pointcloud te vergelijken. Door de punten uit de pointcloud met elkaar te vergelijken kan gekeken worden hoeveel afwijking aanwezig is. Naderhand is gebleken dat het lastig is voor het ORB-Slam2 algoritme om alle exacte punten te vinden die in de ground-truth aanwezig zijn. Daarom hebben wij gebruik gemaakt van de Nearest Neighbours techniek om punten met de kortste afstand uit beide mappen met elkaar te vergelijken.
 
-Voor het vergelijken van de Pointsclouds maak ik gebruik van het programma Cloudcompare. Cloudcompare geeft de mogelijkheid om pointclouds in te laden en te vergelijken. ![cloudcompare](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Plaatjes/Cloudcompare.jpg)
+Voor het vergelijken van de Pointsclouds maakte ik gebruik van het programma Cloudcompare. Cloudcompare geeft de mogelijkheid om pointclouds in te laden en te vergelijken. ![cloudcompare](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Plaatjes/Cloudcompare.jpg)
 
-Naast de pointcloud tegen pointcloud vergelijking hebben andere projectleden de trajectory evaluatie uitgevoerd. Deze evaluatie is uitgevoerd door de trajectory (het pad wat is afgelegd) met de ground-truth trajectory te vergelijken.
+Naast de pointcloud tegen pointcloud vergelijking hebben andere projectleden de trajectory evaluatie uitgevoerd. Deze evaluatie is uitgevoerd door de trajectory (het pad dat is afgelegd) met de ground-truth trajectory te vergelijken.
 ![trajectory evaluation](https://github.com/BobvanElburg/Portfolio_kb-47/blob/master/Plaatjes/figure%203%20evaluation.PNG)
 <br>In de bovenstaande afbeelding is te zien dat de trajectory afwijkt met de ground truth.
 
